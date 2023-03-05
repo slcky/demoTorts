@@ -32,29 +32,31 @@
             </a>
           </div>
           <div class="navbar">
-            <button class="navbtn">
-              <a href="index.html">Home</a>
+            <a href="index.html">
+            <button class="navbtn" onclick="scrollToHomeSection()">
+              Home
             </button>
-            <button class="navbtn">
-              <a>Team</a>
+            </a>
+            <button class="navbtn" href="#">
+              Team
             </button>
-            <button class="navbtn about-button" onclick="scrollToAboutSection()">
-              <a>About</a>
+            <button class="navbtn about-button" onclick="scrollToAboutSection()" href="#">
+              About
             </button>
-            <button class="navbtn">
-              <a href="collection.html">Collection</a>
+            <button class="navbtn" href="collection.html">
+              Collection
             </button>
-            <button class="navbtn stake">
-              <a>Stake</a>
+            <button class="navbtn stake" href="#">
+              Stake
             </button>
           </div>
         </div>
-    </header>
+      </header>
     <section class="secone">
         <div class="secone-container">
-          <img src="TortoiseBG.jpeg" class="secone-bg">
+          <img src="mountains_1920_1080.png" class="secone-bg">
           <div class="image-container">
-            <img src="" alt="">
+            <img src="Main-Logo.png" alt="">
           </div>
         </div>
     </section>
@@ -70,6 +72,11 @@
     <section class="sectwo">
         <img src="sectionbg.png" class="seperator">
         <div class="sectwo-container">
+            <div class="buttons-container">
+                <button class="button">Rarity</button>
+                <button class="button">Number</button>
+                <button class="button">Inscription</button>
+            </div>
             <div class="collection-container">
                 <div class="grid-container">
                   <div class="grid-container">
@@ -80,7 +87,7 @@
                             <div class="grid-box">
                               <img src="upscaled_torts/${i}.png" alt="torts/${i}.png">
                               <div class="grid-text">
-                                <h3>Image Title</h3>
+                                <h3>Tort #️${i}</h3>
                                 <p>Image description</p>
                               </div>
                             </div>
