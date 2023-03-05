@@ -15,42 +15,44 @@
     </div>    
 </head>
 <body>
-    <header>
-        <div class="top-bar">
-          <div class="social-accounts">
-            <a href="">
-              <img src="discord2.png" alt="social-icon">
-            </a>
-            <a href="https://twitter.com/ordinaltortoise">
-              <img src="twitter2.png" alt="social-icon">
-            </a>
-            <a href="">
-              <img src="marketplace.png" alt="social-icon">
-            </a>
-            <a href="">
-              <img src="envelope2.png" alt="social-icon">
-            </a>
-          </div>
-          <div class="navbar">
-            <button class="navbtn">
-              <a href="#">Home</a>
-            </button>
-            <button class="navbtn">
-              <a>Team</a>
-            </button>
-            <button class="navbtn about-button" onclick="scrollToAboutSection()">
-              <a>About</a>
-            </button>
-            <button class="navbtn">
-              <a href="collection.html">Collection</a>
-            </button>
-            <button class="navbtn stake">
-              <a>Stake</a>
-            </button>
-          </div>
-        </div>
-    </header>
-    <section class="secone">
+  <header>
+    <div class="top-bar">
+      <div class="social-accounts">
+        <a href="">
+          <img src="discord2.png" alt="social-icon">
+        </a>
+        <a href="https://twitter.com/ordinaltortoise">
+          <img src="twitter2.png" alt="social-icon">
+        </a>
+        <a href="">
+          <img src="marketplace.png" alt="social-icon">
+        </a>
+        <a href="">
+          <img src="envelope2.png" alt="social-icon">
+        </a>
+      </div>
+      <div class="navbar">
+        <button class="navbtn" onclick="scrollToHomeSection()" href="#">
+          Home
+        </button>
+        <button class="navbtn" href="#">
+          Team
+        </button>
+        <button class="navbtn about-button" onclick="scrollToAboutSection()" href="#">
+          About
+        </button>
+        <a href="collection.html">
+        <button class="navbtn">
+          Collection
+        </button>
+        </a>
+        <button class="navbtn stake" href="#">
+          Stake
+        </button>
+      </div>
+    </div>
+  </header>
+    <section class="secone" id="home-section">
         <div class="secone-container">
           <img src="TortoiseBG.jpeg" class="secone-bg">
           <div class="image-container">
@@ -71,9 +73,8 @@
       <div class="about-container">
         <img src="sectionbg.png" class="seperator">
         <div class="about-text">
-          <p>ABOUT</p>
           <p>555 Ordinal Tortoises inscribed on BTC.</p>
-          <p>Tortoises are among the oldest living animals left in the world, now they will live forever on the BTC blockchain as Ordinal Tortoises.</p>
+          <p>Tortoises are among the oldest living animals left in the world,<br> now they will live forever on the BTC blockchain as Ordinal Tortoises.</p>
           <p>Ordinal Tortoises Inscription Numbers are between 15k-50k.</p>
           <p>64x64px</p>
         </div>
