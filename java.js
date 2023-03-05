@@ -23,6 +23,11 @@ function scrollToAboutSection() {
   section.scrollIntoView({behavior: "smooth", block: "start"});
 }
 
+function scrollToHomeSection() {
+  var section = document.getElementById("home-section");
+  section.scrollIntoView({behavior: "smooth", block: "start"});
+}
+
 document.addEventListener("DOMContentLoaded", function() {
     var loader = document.querySelector(".loader");
     setTimeout(function() {
@@ -33,4 +38,3 @@ document.addEventListener("DOMContentLoaded", function() {
       }, 1000);
     }, 2000);
   });
-  
