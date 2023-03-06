@@ -80,25 +80,6 @@
                             .catch(error => console.error(error));
                         };
 
-                        let searchText = '';
-
-                        function handleSearch(event) {
-                          event.preventDefault();
-
-                          const searchText = document.getElementById('search-bar').value.toLowerCase();
-                          const gridContainer = document.getElementById('grid-container');
-                          const gridCells = gridContainer.querySelectorAll('.grid-cell');
-                          
-                          gridCells.forEach(cell => {
-                            const cellText = cell.innerText.toLowerCase();
-                            if (cellText.includes(searchText)) {
-                              cell.style.display = 'block';
-                            } else {
-                              cell.style.display = 'none';
-                            }
-                          });
-                        }
-
                         function fetchAndProcessData(sortBy) {
                           let dataUrl = '';
                           if (sortBy === 'number' || sortBy === 'inscription') {
@@ -165,6 +146,26 @@
                             cell.appendChild(box);
                             gridContainer.appendChild(cell);
                           }
+                        }
+
+                        function handleSearch() {
+                          const searchValue = document.getElementById('search-bar').value.toLowerCase();
+                          fetch('data.csv')
+                            .then(response => response.text())
+                            .then(data => {
+                              const rows = data.split('\n').slice(1); // Exclude the header row
+                              const csvData = rows.map(row => row.split(','));
+                              const filteredData = csvData.filter(row => {
+                                const metadata = JSON.parse(metaData);
+                                const metadataRow = metadata[parseInt(row[0]) - 1];
+                                const metadataValues = Object.values(metadataRow);
+                                const metadataText = metadataValues.join(' ').toLowerCase();
+                                const searchText = `${row[0]} ${row[2]} ${metadataText}`;
+                                return searchText.includes(searchValue);
+                              });
+                              processData(filteredData.map(row => row.join(',')).join('\n'), 'number');
+                            })
+                            .catch(error => console.error(error));
                         }
                       </script>                                                           
                   </div>
