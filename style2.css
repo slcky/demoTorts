@@ -263,6 +263,11 @@
     font-size: 0.7em;
     line-height: 1.5; /* Add spacing between lines */
   }
+
+.grid-text p:last-child {
+    display: none;
+  }
+  
   body {
     scrollbar-width: none; /* Firefox */
   }
@@ -291,6 +296,17 @@
     cursor: pointer;
   }
   
+  .sortBy {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    font-family: '8-BIT-WONDER', sans-serif;
+    font-size: 0.8em;
+    cursor: pointer;
+  }
+
   .button:hover {
     background-color: #666;
   }

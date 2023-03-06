@@ -59,6 +59,7 @@
     <section class="sectwo">
         <div class="sectwo-container">
             <div class="buttons-container">
+              <p class="sortBy">Sort By:</p>
               <button class="button" onclick="fetchAndProcessData('rarity')">Rarity</button>
               <button class="button" onclick="fetchAndProcessData('number')">Number</button>
               <button class="button" onclick="fetchAndProcessData('inscription')">Inscription</button>
@@ -79,10 +80,15 @@
                             .catch(error => console.error(error));
                         };
 
-                        function handleSearch() {
+                        let searchText = '';
+
+                        function handleSearch(event) {
+                          event.preventDefault();
+
                           const searchText = document.getElementById('search-bar').value.toLowerCase();
                           const gridContainer = document.getElementById('grid-container');
                           const gridCells = gridContainer.querySelectorAll('.grid-cell');
+                          
                           gridCells.forEach(cell => {
                             const cellText = cell.innerText.toLowerCase();
                             if (cellText.includes(searchText)) {
@@ -134,7 +140,7 @@
                             const text = document.createElement('div');
                             text.className = 'grid-text';
                             const h3 = document.createElement('h3');
-                            h3.textContent = `Tort: ${row[0]}`;
+                            h3.textContent = `Tort ${row[0]}`;
                             const metadata = JSON.parse(metaData);
                             const metadataRow = metadata[parseInt(row[0]) - 1];
                             const metadataValues = Object.values(metadataRow);
@@ -148,9 +154,12 @@
                               p1.textContent = `Inscription ${row[2]}`;
                               p2.textContent = `Rank: ${row[5]}`;
                             }
+                            const p3 = document.createElement('p');
+                            p3.textContent = metadataText
                             text.appendChild(h3);
                             text.appendChild(p1);
                             text.appendChild(p2);
+                            text.appendChild(p3);
                             box.appendChild(img);
                             box.appendChild(text);
                             cell.appendChild(box);
