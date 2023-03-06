@@ -183,9 +183,12 @@
                               p1.textContent = `Inscription ${row[2]}`;
                               p2.textContent = `Rank: ${row[5]}`;
                             }
+                            const p3 = document.createElement('p');
+                            p3.textContent = metadataText
                             text.appendChild(h3);
                             text.appendChild(p1);
                             text.appendChild(p2);
+                            text.appendChild(p3);
                             box.appendChild(img);
                             box.appendChild(text);
                             cell.appendChild(box);
