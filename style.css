@@ -294,7 +294,7 @@ a {
   text-align: center;
   font-family: 'Fipps-Regular', sans-serif;
   font-size: 1em;
-  line-height: 5;
+  line-height: 2.5;
   top: 50%;
   transform: translateY(-50%);
   margin-left: 75px;
@@ -452,7 +452,7 @@ a {
 
 .secthree-container{
   width: 100vw;
-  height: 300px;
+  height: 50vh;
 }
 
 .secthree-bg{
@@ -462,7 +462,7 @@ a {
 
 .footer-text{
   position: relative;
-  transform: translateY(-50px);
+  transform: translateY(-75px);
   left: 0;
   right: 0;
   display: flex;
@@ -493,7 +493,6 @@ a {
   .about-text{
     width: 45vw;
     height: 55vh;
-    top: 35%;
   }
 }
 
