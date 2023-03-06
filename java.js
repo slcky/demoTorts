@@ -28,7 +28,7 @@ function scrollToHomeSection() {
   section.scrollIntoView({behavior: "smooth", block: "start"});
 }
 
-function scrollToHomeSection() {
+function scrollToTeamSection() {
   var section = document.getElementById("team-section");
   section.scrollIntoView({behavior: "smooth", block: "start"});
 }
