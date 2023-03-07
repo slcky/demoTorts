@@ -1,0 +1,5552 @@
+[
+    {
+        "Serial Number": "1",
+        "Inscription Number": "17350",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "2",
+        "Inscription Number": "35916",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "3",
+        "Inscription Number": "40541",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "4",
+        "Inscription Number": "40665",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "5",
+        "Inscription Number": "40144",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "6",
+        "Inscription Number": "35788",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "7",
+        "Inscription Number": "16621",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "8",
+        "Inscription Number": "40161",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "9",
+        "Inscription Number": "40050",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "10",
+        "Inscription Number": "37707",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "11",
+        "Inscription Number": "40374",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "12",
+        "Inscription Number": "17203",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "13",
+        "Inscription Number": "39868",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "14",
+        "Inscription Number": "39872",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "15",
+        "Inscription Number": "40652",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "16",
+        "Inscription Number": "40243",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "17",
+        "Inscription Number": "16188",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "18",
+        "Inscription Number": "40037",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "19",
+        "Inscription Number": "40292",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "20",
+        "Inscription Number": "17214",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "21",
+        "Inscription Number": "39950",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "22",
+        "Inscription Number": "40333",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "23",
+        "Inscription Number": "40765",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "24",
+        "Inscription Number": "16639",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "25",
+        "Inscription Number": "40048",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "26",
+        "Inscription Number": "16625",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "27",
+        "Inscription Number": "40298",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "28",
+        "Inscription Number": "39881",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "29",
+        "Inscription Number": "40232",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "30",
+        "Inscription Number": "40784",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "31",
+        "Inscription Number": "40925",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "32",
+        "Inscription Number": "40663",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "33",
+        "Inscription Number": "40178",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "34",
+        "Inscription Number": "40237",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "35",
+        "Inscription Number": "40375",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "36",
+        "Inscription Number": "39888",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "37",
+        "Inscription Number": "40546",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "38",
+        "Inscription Number": "38960",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "39",
+        "Inscription Number": "39262",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "40",
+        "Inscription Number": "17196",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "41",
+        "Inscription Number": "40051",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "42",
+        "Inscription Number": "40518",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "43",
+        "Inscription Number": "38963",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "44",
+        "Inscription Number": "40341",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "45",
+        "Inscription Number": "39952",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "46",
+        "Inscription Number": "40029",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "47",
+        "Inscription Number": "40928",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "48",
+        "Inscription Number": "40780",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "49",
+        "Inscription Number": "33598",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "50",
+        "Inscription Number": "39940",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "51",
+        "Inscription Number": "17054",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "52",
+        "Inscription Number": "40047",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "53",
+        "Inscription Number": "17046",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "54",
+        "Inscription Number": "40038",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "55",
+        "Inscription Number": "40540",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "56",
+        "Inscription Number": "40296",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "57",
+        "Inscription Number": "17045",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "58",
+        "Inscription Number": "40162",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "59",
+        "Inscription Number": "16663",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "60",
+        "Inscription Number": "39263",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "61",
+        "Inscription Number": "40531",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "62",
+        "Inscription Number": "17291",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "63",
+        "Inscription Number": "40231",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "64",
+        "Inscription Number": "46065",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "65",
+        "Inscription Number": "39266",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "66",
+        "Inscription Number": "39942",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "67",
+        "Inscription Number": "46075",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "68",
+        "Inscription Number": "39948",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "69",
+        "Inscription Number": "40299",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "70",
+        "Inscription Number": "17043",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "71",
+        "Inscription Number": "16620",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "72",
+        "Inscription Number": "39273",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "73",
+        "Inscription Number": "45632",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "74",
+        "Inscription Number": "45682",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "75",
+        "Inscription Number": "40343",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "76",
+        "Inscription Number": "40661",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "77",
+        "Inscription Number": "37359",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "78",
+        "Inscription Number": "40166",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "79",
+        "Inscription Number": "45623",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "80",
+        "Inscription Number": "45956",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "81",
+        "Inscription Number": "40164",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "82",
+        "Inscription Number": "38969",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "83",
+        "Inscription Number": "39954",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "84",
+        "Inscription Number": "35733",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "85",
+        "Inscription Number": "40328",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "86",
+        "Inscription Number": "26080",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "87",
+        "Inscription Number": "40117",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "88",
+        "Inscription Number": "39947",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "89",
+        "Inscription Number": "45615",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "90",
+        "Inscription Number": "39159",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "91",
+        "Inscription Number": "45344",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "92",
+        "Inscription Number": "40245",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "93",
+        "Inscription Number": "39869",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "94",
+        "Inscription Number": "40173",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "95",
+        "Inscription Number": "40240",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "96",
+        "Inscription Number": "39608",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "97",
+        "Inscription Number": "45693",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "98",
+        "Inscription Number": "40544",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "99",
+        "Inscription Number": "45688",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "100",
+        "Inscription Number": "45881",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "101",
+        "Inscription Number": "45945",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "102",
+        "Inscription Number": "46072",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "103",
+        "Inscription Number": "45685",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "104",
+        "Inscription Number": "45747",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "105",
+        "Inscription Number": "39946",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "106",
+        "Inscription Number": "45626",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "107",
+        "Inscription Number": "38086",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "108",
+        "Inscription Number": "45617",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "109",
+        "Inscription Number": "45474",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "110",
+        "Inscription Number": "40768",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "111",
+        "Inscription Number": "41051",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "112",
+        "Inscription Number": "40036",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "113",
+        "Inscription Number": "45754",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "114",
+        "Inscription Number": "39875",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "115",
+        "Inscription Number": "45424",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "116",
+        "Inscription Number": "45625",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "117",
+        "Inscription Number": "37961",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "118",
+        "Inscription Number": "45622",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "119",
+        "Inscription Number": "45755",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "120",
+        "Inscription Number": "40045",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "121",
+        "Inscription Number": "39149",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "122",
+        "Inscription Number": "45947",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "123",
+        "Inscription Number": "39150",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "124",
+        "Inscription Number": "40522",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "125",
+        "Inscription Number": "39161",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "126",
+        "Inscription Number": "25876",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "127",
+        "Inscription Number": "40157",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "128",
+        "Inscription Number": "39936",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "129",
+        "Inscription Number": "39938",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "130",
+        "Inscription Number": "40331",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "131",
+        "Inscription Number": "40242",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "132",
+        "Inscription Number": "40248",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "133",
+        "Inscription Number": "40250",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "134",
+        "Inscription Number": "40527",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "135",
+        "Inscription Number": "45867",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "136",
+        "Inscription Number": "45384",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "137",
+        "Inscription Number": "45261",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "138",
+        "Inscription Number": "37594",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "139",
+        "Inscription Number": "39870",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "140",
+        "Inscription Number": "45481",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "141",
+        "Inscription Number": "34968",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Bucket Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "142",
+        "Inscription Number": "39620",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "143",
+        "Inscription Number": "39611",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "144",
+        "Inscription Number": "45757",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "145",
+        "Inscription Number": "45869",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "146",
+        "Inscription Number": "45402",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "147",
+        "Inscription Number": "40122",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "148",
+        "Inscription Number": "45346",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "149",
+        "Inscription Number": "45698",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "150",
+        "Inscription Number": "39282",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "151",
+        "Inscription Number": "45690",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "152",
+        "Inscription Number": "45257",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "153",
+        "Inscription Number": "45620",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "154",
+        "Inscription Number": "39623",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "155",
+        "Inscription Number": "40239",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "156",
+        "Inscription Number": "40529",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "157",
+        "Inscription Number": "40028",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "158",
+        "Inscription Number": "39260",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "159",
+        "Inscription Number": "45699",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "160",
+        "Inscription Number": "40763",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "161",
+        "Inscription Number": "45618",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "162",
+        "Inscription Number": "40715",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "163",
+        "Inscription Number": "26589",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "164",
+        "Inscription Number": "37959",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "165",
+        "Inscription Number": "40654",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "166",
+        "Inscription Number": "17352",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "167",
+        "Inscription Number": "35795",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "168",
+        "Inscription Number": "45264",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "169",
+        "Inscription Number": "16623",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "170",
+        "Inscription Number": "40519",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "171",
+        "Inscription Number": "40713",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "172",
+        "Inscription Number": "39279",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "173",
+        "Inscription Number": "39157",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "174",
+        "Inscription Number": "40145",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "175",
+        "Inscription Number": "38979",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "176",
+        "Inscription Number": "45948",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "177",
+        "Inscription Number": "17039",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "178",
+        "Inscription Number": "17127",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "179",
+        "Inscription Number": "40929",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "180",
+        "Inscription Number": "35630",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "181",
+        "Inscription Number": "40039",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "182",
+        "Inscription Number": "40303",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "183",
+        "Inscription Number": "35183",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Bucket Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "184",
+        "Inscription Number": "39151",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "185",
+        "Inscription Number": "39272",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "186",
+        "Inscription Number": "46161",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "187",
+        "Inscription Number": "40247",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "188",
+        "Inscription Number": "17041",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "189",
+        "Inscription Number": "45871",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "190",
+        "Inscription Number": "45483",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "191",
+        "Inscription Number": "35794",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "192",
+        "Inscription Number": "38611",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "193",
+        "Inscription Number": "40300",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "194",
+        "Inscription Number": "39155",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "195",
+        "Inscription Number": "45870",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "196",
+        "Inscription Number": "45694",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "197",
+        "Inscription Number": "39275",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "198",
+        "Inscription Number": "38957",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "199",
+        "Inscription Number": "40545",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "200",
+        "Inscription Number": "45473",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "201",
+        "Inscription Number": "45476",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "202",
+        "Inscription Number": "46156",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "203",
+        "Inscription Number": "40165",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "204",
+        "Inscription Number": "38956",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "205",
+        "Inscription Number": "40523",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "206",
+        "Inscription Number": "45756",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "207",
+        "Inscription Number": "40168",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "208",
+        "Inscription Number": "40119",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "209",
+        "Inscription Number": "40132",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "210",
+        "Inscription Number": "45695",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "211",
+        "Inscription Number": "45621",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "212",
+        "Inscription Number": "39612",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "213",
+        "Inscription Number": "45416",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "214",
+        "Inscription Number": "39619",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "215",
+        "Inscription Number": "40539",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "216",
+        "Inscription Number": "45750",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "217",
+        "Inscription Number": "40040",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "218",
+        "Inscription Number": "39935",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "219",
+        "Inscription Number": "39277",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "220",
+        "Inscription Number": "40135",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "221",
+        "Inscription Number": "45348",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "222",
+        "Inscription Number": "18110",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "223",
+        "Inscription Number": "40158",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "224",
+        "Inscription Number": "40376",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "225",
+        "Inscription Number": "46157",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "226",
+        "Inscription Number": "35784",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "227",
+        "Inscription Number": "46070",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "228",
+        "Inscription Number": "40714",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "229",
+        "Inscription Number": "39261",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "230",
+        "Inscription Number": "38982",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "231",
+        "Inscription Number": "35567",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "232",
+        "Inscription Number": "45412",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "233",
+        "Inscription Number": "40134",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "234",
+        "Inscription Number": "39158",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "235",
+        "Inscription Number": "40332",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "236",
+        "Inscription Number": "40129",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "237",
+        "Inscription Number": "39613",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "238",
+        "Inscription Number": "45479",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "239",
+        "Inscription Number": "45418",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "240",
+        "Inscription Number": "38961",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "241",
+        "Inscription Number": "45955",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "242",
+        "Inscription Number": "38972",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "243",
+        "Inscription Number": "39457",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "244",
+        "Inscription Number": "38954",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "245",
+        "Inscription Number": "17049",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "246",
+        "Inscription Number": "38964",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "247",
+        "Inscription Number": "45875",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "248",
+        "Inscription Number": "39886",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "249",
+        "Inscription Number": "45873",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "250",
+        "Inscription Number": "45748",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "251",
+        "Inscription Number": "40031",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "252",
+        "Inscription Number": "39956",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "253",
+        "Inscription Number": "46154",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "254",
+        "Inscription Number": "39866",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "255",
+        "Inscription Number": "38959",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "256",
+        "Inscription Number": "40172",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "257",
+        "Inscription Number": "45477",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "258",
+        "Inscription Number": "45950",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "259",
+        "Inscription Number": "39622",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "260",
+        "Inscription Number": "40302",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "261",
+        "Inscription Number": "39280",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "262",
+        "Inscription Number": "40238",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "263",
+        "Inscription Number": "40142",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "264",
+        "Inscription Number": "45745",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "265",
+        "Inscription Number": "40049",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "266",
+        "Inscription Number": "17526",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "267",
+        "Inscription Number": "39264",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "268",
+        "Inscription Number": "20555",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "269",
+        "Inscription Number": "17207",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "270",
+        "Inscription Number": "35786",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "271",
+        "Inscription Number": "45689",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "272",
+        "Inscription Number": "45624",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "273",
+        "Inscription Number": "39949",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "274",
+        "Inscription Number": "45260",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "275",
+        "Inscription Number": "38976",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "276",
+        "Inscription Number": "35790",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Bucket Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "277",
+        "Inscription Number": "39283",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "278",
+        "Inscription Number": "35530",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "279",
+        "Inscription Number": "35917",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "280",
+        "Inscription Number": "40123",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "281",
+        "Inscription Number": "35735",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "282",
+        "Inscription Number": "40246",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "283",
+        "Inscription Number": "45388",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "284",
+        "Inscription Number": "39154",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "285",
+        "Inscription Number": "45697",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "286",
+        "Inscription Number": "35787",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "287",
+        "Inscription Number": "40664",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "288",
+        "Inscription Number": "39281",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "289",
+        "Inscription Number": "35791",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "290",
+        "Inscription Number": "39941",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "291",
+        "Inscription Number": "45952",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "292",
+        "Inscription Number": "39877",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "293",
+        "Inscription Number": "40180",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "294",
+        "Inscription Number": "35914",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "295",
+        "Inscription Number": "17125",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "296",
+        "Inscription Number": "45746",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "297",
+        "Inscription Number": "37956",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "298",
+        "Inscription Number": "45355",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "299",
+        "Inscription Number": "40295",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "300",
+        "Inscription Number": "38967",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "301",
+        "Inscription Number": "16186",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "302",
+        "Inscription Number": "39618",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "303",
+        "Inscription Number": "18661",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "304",
+        "Inscription Number": "35789",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "305",
+        "Inscription Number": "40249",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "306",
+        "Inscription Number": "45630",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "307",
+        "Inscription Number": "39156",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "308",
+        "Inscription Number": "39953",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "309",
+        "Inscription Number": "37223",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "310",
+        "Inscription Number": "39167",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "311",
+        "Inscription Number": "39944",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "312",
+        "Inscription Number": "45749",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "313",
+        "Inscription Number": "41052",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "314",
+        "Inscription Number": "39153",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "315",
+        "Inscription Number": "46155",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "316",
+        "Inscription Number": "40656",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "317",
+        "Inscription Number": "40163",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "318",
+        "Inscription Number": "40034",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "319",
+        "Inscription Number": "40330",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "320",
+        "Inscription Number": "40335",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "321",
+        "Inscription Number": "37797",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "322",
+        "Inscription Number": "45414",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "323",
+        "Inscription Number": "39274",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "324",
+        "Inscription Number": "39937",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "325",
+        "Inscription Number": "39171",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "326",
+        "Inscription Number": "40139",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "327",
+        "Inscription Number": "40033",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "328",
+        "Inscription Number": "45692",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "329",
+        "Inscription Number": "46158",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "330",
+        "Inscription Number": "40138",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "331",
+        "Inscription Number": "18348",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "332",
+        "Inscription Number": "45486",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "333",
+        "Inscription Number": "39170",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "334",
+        "Inscription Number": "39865",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "335",
+        "Inscription Number": "40533",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "336",
+        "Inscription Number": "40044",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "337",
+        "Inscription Number": "37804",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "338",
+        "Inscription Number": "40035",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "339",
+        "Inscription Number": "34656",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "340",
+        "Inscription Number": "45953",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "341",
+        "Inscription Number": "35796",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "342",
+        "Inscription Number": "45629",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "343",
+        "Inscription Number": "39884",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "344",
+        "Inscription Number": "37577",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "345",
+        "Inscription Number": "39621",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "346",
+        "Inscription Number": "40662",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "347",
+        "Inscription Number": "35354",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "348",
+        "Inscription Number": "33860",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "349",
+        "Inscription Number": "40253",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "350",
+        "Inscription Number": "39169",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "351",
+        "Inscription Number": "40160",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "352",
+        "Inscription Number": "45753",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "353",
+        "Inscription Number": "38984",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "354",
+        "Inscription Number": "40528",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "355",
+        "Inscription Number": "25860",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "356",
+        "Inscription Number": "46076",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "357",
+        "Inscription Number": "40125",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "358",
+        "Inscription Number": "40254",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "359",
+        "Inscription Number": "40159",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "360",
+        "Inscription Number": "35792",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "361",
+        "Inscription Number": "40043",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "362",
+        "Inscription Number": "40340",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "363",
+        "Inscription Number": "45758",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "364",
+        "Inscription Number": "45350",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "365",
+        "Inscription Number": "39269",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "366",
+        "Inscription Number": "45684",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "367",
+        "Inscription Number": "39165",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "368",
+        "Inscription Number": "37167",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "369",
+        "Inscription Number": "40234",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "370",
+        "Inscription Number": "40532",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "371",
+        "Inscription Number": "35632",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "372",
+        "Inscription Number": "45942",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "373",
+        "Inscription Number": "18346",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "374",
+        "Inscription Number": "45879",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "375",
+        "Inscription Number": "37953",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "376",
+        "Inscription Number": "40301",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "377",
+        "Inscription Number": "46074",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "378",
+        "Inscription Number": "39955",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "379",
+        "Inscription Number": "40137",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "380",
+        "Inscription Number": "37497",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "381",
+        "Inscription Number": "40659",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "382",
+        "Inscription Number": "45878",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "383",
+        "Inscription Number": "45943",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "384",
+        "Inscription Number": "39951",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "385",
+        "Inscription Number": "45628",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "386",
+        "Inscription Number": "37957",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "387",
+        "Inscription Number": "46069",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "388",
+        "Inscription Number": "45759",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "389",
+        "Inscription Number": "40041",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "390",
+        "Inscription Number": "39166",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "391",
+        "Inscription Number": "39164",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "392",
+        "Inscription Number": "40244",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "393",
+        "Inscription Number": "40252",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "394",
+        "Inscription Number": "40030",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "395",
+        "Inscription Number": "18324",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "396",
+        "Inscription Number": "40251",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "397",
+        "Inscription Number": "40130",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "398",
+        "Inscription Number": "45752",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "399",
+        "Inscription Number": "40712",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "400",
+        "Inscription Number": "40337",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "401",
+        "Inscription Number": "40176",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "402",
+        "Inscription Number": "39876",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "403",
+        "Inscription Number": "39278",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "404",
+        "Inscription Number": "45874",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "405",
+        "Inscription Number": "40046",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "406",
+        "Inscription Number": "40524",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "407",
+        "Inscription Number": "39615",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "408",
+        "Inscription Number": "46077",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "409",
+        "Inscription Number": "39147",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "410",
+        "Inscription Number": "40255",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "411",
+        "Inscription Number": "40520",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "412",
+        "Inscription Number": "40032",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "413",
+        "Inscription Number": "39152",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "414",
+        "Inscription Number": "40781",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "415",
+        "Inscription Number": "17524",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "416",
+        "Inscription Number": "38978",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "417",
+        "Inscription Number": "46073",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "418",
+        "Inscription Number": "45485",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "419",
+        "Inscription Number": "39943",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "420",
+        "Inscription Number": "39160",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "421",
+        "Inscription Number": "45876",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "422",
+        "Inscription Number": "45946",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "423",
+        "Inscription Number": "40235",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "424",
+        "Inscription Number": "39267",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "425",
+        "Inscription Number": "39614",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "426",
+        "Inscription Number": "38975",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "427",
+        "Inscription Number": "41054",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "428",
+        "Inscription Number": "45489",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "429",
+        "Inscription Number": "38974",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "430",
+        "Inscription Number": "16252",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "431",
+        "Inscription Number": "37955",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "432",
+        "Inscription Number": "39958",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "433",
+        "Inscription Number": "40140",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "434",
+        "Inscription Number": "40179",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "435",
+        "Inscription Number": "39939",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "436",
+        "Inscription Number": "40174",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "437",
+        "Inscription Number": "45631",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "438",
+        "Inscription Number": "40668",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "439",
+        "Inscription Number": "40655",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "440",
+        "Inscription Number": "40294",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "441",
+        "Inscription Number": "40167",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "442",
+        "Inscription Number": "39879",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "443",
+        "Inscription Number": "45944",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "444",
+        "Inscription Number": "39162",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "445",
+        "Inscription Number": "40767",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "446",
+        "Inscription Number": "45951",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "447",
+        "Inscription Number": "45686",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "448",
+        "Inscription Number": "35915",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "449",
+        "Inscription Number": "39878",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "450",
+        "Inscription Number": "34880",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Bucket Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "451",
+        "Inscription Number": "37306",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "452",
+        "Inscription Number": "45484",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "453",
+        "Inscription Number": "46159",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "454",
+        "Inscription Number": "35793",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Bucket Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "455",
+        "Inscription Number": "40143",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "456",
+        "Inscription Number": "40653",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Crown",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "457",
+        "Inscription Number": "40517",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "458",
+        "Inscription Number": "38983",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "459",
+        "Inscription Number": "45877",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Crown",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "460",
+        "Inscription Number": "46071",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "461",
+        "Inscription Number": "39163",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "462",
+        "Inscription Number": "40236",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "463",
+        "Inscription Number": "40373",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "464",
+        "Inscription Number": "17928",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "465",
+        "Inscription Number": "40175",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "466",
+        "Inscription Number": "39276",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "467",
+        "Inscription Number": "40177",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "468",
+        "Inscription Number": "45760",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "469",
+        "Inscription Number": "39265",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "470",
+        "Inscription Number": "38958",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "471",
+        "Inscription Number": "45882",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "472",
+        "Inscription Number": "39874",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "473",
+        "Inscription Number": "45751",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "474",
+        "Inscription Number": "40293",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "475",
+        "Inscription Number": "17999",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "476",
+        "Inscription Number": "18264",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "477",
+        "Inscription Number": "46063",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "478",
+        "Inscription Number": "39957",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "479",
+        "Inscription Number": "40371",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "480",
+        "Inscription Number": "40124",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "481",
+        "Inscription Number": "46160",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "482",
+        "Inscription Number": "40377",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "483",
+        "Inscription Number": "40171",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "484",
+        "Inscription Number": "45954",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "485",
+        "Inscription Number": "40118",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "486",
+        "Inscription Number": "45616",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "487",
+        "Inscription Number": "39867",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "488",
+        "Inscription Number": "38053",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Bucket Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "489",
+        "Inscription Number": "40241",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "490",
+        "Inscription Number": "46066",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "491",
+        "Inscription Number": "35633",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Bucket Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "492",
+        "Inscription Number": "45872",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "493",
+        "Inscription Number": "45487",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "494",
+        "Inscription Number": "40297",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "495",
+        "Inscription Number": "40169",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "496",
+        "Inscription Number": "45949",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "497",
+        "Inscription Number": "40530",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "498",
+        "Inscription Number": "45883",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "499",
+        "Inscription Number": "38970",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "500",
+        "Inscription Number": "40783",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "501",
+        "Inscription Number": "16622",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "502",
+        "Inscription Number": "39148",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "503",
+        "Inscription Number": "39871",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "504",
+        "Inscription Number": "45480",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "505",
+        "Inscription Number": "39883",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "506",
+        "Inscription Number": "37578",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "507",
+        "Inscription Number": "39945",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "508",
+        "Inscription Number": "40326",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "509",
+        "Inscription Number": "18059",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "510",
+        "Inscription Number": "45478",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "511",
+        "Inscription Number": "40141",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "512",
+        "Inscription Number": "45472",
+        "Sex": "Male",
+        "Shell": "Round",
+        "Skin": "Moss",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "513",
+        "Inscription Number": "40372",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "514",
+        "Inscription Number": "40927",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "515",
+        "Inscription Number": "40542",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "516",
+        "Inscription Number": "40526",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "517",
+        "Inscription Number": "45403",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "None",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "518",
+        "Inscription Number": "40370",
+        "Sex": "Male",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "519",
+        "Inscription Number": "45868",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Prehistoric",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "520",
+        "Inscription Number": "39268",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "521",
+        "Inscription Number": "39885",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "522",
+        "Inscription Number": "45488",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "523",
+        "Inscription Number": "40170",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Trippy",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "524",
+        "Inscription Number": "38955",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "525",
+        "Inscription Number": "45941",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "526",
+        "Inscription Number": "35734",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "527",
+        "Inscription Number": "45425",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "528",
+        "Inscription Number": "39284",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "529",
+        "Inscription Number": "45700",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "530",
+        "Inscription Number": "17198",
+        "Sex": "Female",
+        "Shell": "Round",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Straw Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "531",
+        "Inscription Number": "40027",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "Straw Hat",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "532",
+        "Inscription Number": "17523",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Laser Eyes"
+    },
+    {
+        "Serial Number": "533",
+        "Inscription Number": "40126",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Moss",
+        "Mouth": "Shocked",
+        "Hat": "Cowboy Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "534",
+        "Inscription Number": "40543",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Albino",
+        "Mouth": "Smile",
+        "Hat": "None",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "535",
+        "Inscription Number": "17129",
+        "Sex": "Male",
+        "Shell": "Trippy",
+        "Skin": "Moss",
+        "Mouth": "Golden Teeth",
+        "Hat": "Straw Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "536",
+        "Inscription Number": "35736",
+        "Sex": "Male",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "537",
+        "Inscription Number": "41053",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Albino",
+        "Mouth": "Golden Teeth",
+        "Hat": "Stuntman Helmet",
+        "Eyes": "Scouter"
+    },
+    {
+        "Serial Number": "538",
+        "Inscription Number": "40521",
+        "Sex": "Female",
+        "Shell": "Fire",
+        "Skin": "Moss",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "539",
+        "Inscription Number": "39270",
+        "Sex": "Male",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Smile",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "540",
+        "Inscription Number": "17206",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Trippy",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "541",
+        "Inscription Number": "40128",
+        "Sex": "Female",
+        "Shell": "Trippy",
+        "Skin": "Prehistoric",
+        "Mouth": "Smile",
+        "Hat": "Blue Party Hat",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "542",
+        "Inscription Number": "38966",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Trippy",
+        "Mouth": "Shocked",
+        "Hat": "None",
+        "Eyes": "Sunglasses"
+    },
+    {
+        "Serial Number": "543",
+        "Inscription Number": "40120",
+        "Sex": "Male",
+        "Shell": "Fire",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Blue Party Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "544",
+        "Inscription Number": "45687",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Gold",
+        "Mouth": "Multi Colored Teeth",
+        "Hat": "Propeller Hat",
+        "Eyes": "Eyepatch"
+    },
+    {
+        "Serial Number": "545",
+        "Inscription Number": "35629",
+        "Sex": "Female",
+        "Shell": "Radiation",
+        "Skin": "Albino",
+        "Mouth": "Shocked",
+        "Hat": "Propeller Hat",
+        "Eyes": "Visor"
+    },
+    {
+        "Serial Number": "546",
+        "Inscription Number": "37958",
+        "Sex": "Female",
+        "Shell": "Gold",
+        "Skin": "Gold",
+        "Mouth": "Shocked",
+        "Hat": "Bucket Hat",
+        "Eyes": "3D Glasses"
+    },
+    {
+        "Serial Number": "547",
+        "Inscription Number": "17089",
+        "Sex": "Female",
+        "Shell": "Spiky",
+        "Skin": "Prehistoric",
+        "Mouth": "Golden Teeth",
+        "Hat": "Crown",
+        "Eyes": "Original"
+    },
+    {
+        "Serial Number": "548",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "549",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "550",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "551",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "552",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "553",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "554",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "555",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    }
+]

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+    <title>Ordinal Torts</title>
+    <script src="java.js"></script>
+    <div class="preloader">
+      <div id="loader">
+        <img src="images/footerlogo.gif" alt="Loading...">
+      </div>
+    </div>
+        <div class="audio-container" autoplay loop>
+      <audio id="audio" loop>
+        <source src="gng-beach.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    
+      <button id="play-pause-button">
+        <img id="play-icon" src="images/play-circle.png" alt="Play" width="100%">
+      </button>
+    
+      <script>
+        var audio = document.getElementById("audio");
+        var playPauseButton = document.getElementById("play-pause-button");
+        var playIcon = document.getElementById("play-icon");
+        audio.volume = 0.1;
+    
+        playPauseButton.addEventListener("click", function() {
+          if (audio.paused) {
+            audio.play();
+            playIcon.src = "images/pause.png";
+          } else {
+            audio.pause();
+            playIcon.src = "images/play-circle.png";
+          }
+        });
+      </script>
+    </div>
+</head>
+<body>
+    <header>
+        <div class="top-bar">
+          <div class="social-accounts">
+            <a href="">
+              <img src="images/discord2.png" alt="social-icon">
+            </a>
+            <a href="https://twitter.com/ordinaltortoise">
+              <img src="images/twitter2.png" alt="social-icon">
+            </a>
+            <a href="https://linktr.ee/ordinaltortoises">
+              <img src="images/marketplace.png" alt="social-icon">
+            </a>
+            <a href="mailto:ordinaltortoises@gmail.com">
+              <img src="images/envelope2.png" alt="social-icon">
+            </a>
+          </div>
+          <div class="navbar">
+            <a href="index.html">
+            <button class="navbtn" onclick="scrollToHomeSection()">
+              Home
+            </button>
+            </a>
+            <a href="index.html">
+            </a>
+            <a href="index.html">
+            <button class="navbtn about-button" onclick="scrollToAboutSection()" href="#">
+              About
+            </button>
+            </a>
+            <button class="navbtn" href="collection.html">
+              Collection
+            </button>
+            <button class="navbtn stake" href="#">
+              Stake
+            </button>
+          </div>
+        </div>
+      </header>
+    <section class="sectwo">
+        <div class="sectwo-container">
+            <div class="buttons-container">
+              <p class="button-text">Sort By:</p>
+              <button class="button" onclick="fetchAndProcessData('rarity')">Rarity</button>
+              <button class="button" onclick="fetchAndProcessData('number')">Number</button>
+              <button class="button" onclick="fetchAndProcessData('inscription')">Inscription</button>
+              <input type="text" class="search-bar" id="search-bar" placeholder="Search by attribute">
+            </div>
+            <div class="collection-container">
+                <div class="grid-container">
+                    <div class="grid-container" id="grid-container">
+                      <script>
+                        window.onload = function() {
+                          fetch('metadata.json')
+                            .then(response => response.json())
+                            .then(data => {
+                              metaData = JSON.stringify(data);
+                              document.getElementById('search-bar').addEventListener('input', handleSearch);
+                              fetchAndProcessData();
+                            })
+                            .catch(error => console.error(error));
+                        };
+
+                        const buttons = document.querySelectorAll('.button');
+
+                        function handleClick(event) {
+                          buttons.forEach(button => {
+                            button.classList.remove('active');
+                          });
+                          const button = event.currentTarget;
+                          button.classList.add('active');
+                          handleSearch();
+                        }
+
+                        buttons.forEach(button => {
+                          button.addEventListener('click', handleClick);
+                        });
+
+                        function handleSearch() {
+                          const searchValue = document.getElementById('search-bar').value.toLowerCase();
+                          const sortBy = document.querySelector('.button.active').textContent.toLowerCase();
+                          fetch('data.csv')
+                            .then(response => response.text())
+                            .then(data => {
+                              const rows = data.split('\n').slice(1); // Exclude the header row
+                              const csvData = rows.map(row => row.split(','));
+                              const filteredData = csvData.filter(row => {
+                                const metadata = JSON.parse(metaData);
+                                const metadataRow = metadata[parseInt(row[0]) - 1];
+                                const metadataValues = Object.values(metadataRow);
+                                const metadataText = metadataValues.join(' ').toLowerCase();
+                                const searchText = `${row[0]} ${row[2]} ${metadataText}`;
+                                return searchText.includes(searchValue);
+                              });
+
+                              // Sort the filtered data based on the selected sorting criteria
+                              if (sortBy === 'rarity') {
+                                filteredData.sort((a, b) => parseFloat(a[4]) - parseFloat(b[4]));
+                              } else if (sortBy === 'inscription') {
+                                filteredData.sort((a, b) => parseInt(a[2]) - parseInt(b[2]));
+                              } else {
+                                filteredData.sort((a, b) => parseInt(a[0]) - parseInt(b[0]));
+                              }
+
+                              processData(filteredData.map(row => row.join(',')).join('\n'), sortBy);
+                            })
+                            .catch(error => console.error(error));
+                        }
+
+                        function fetchAndProcessData() {
+                          fetch('data.csv')
+                            .then(response => response.text())
+                            .then(data => {
+                              const rows = data.split('\n').slice(1); // Exclude the header row
+                              const randomRows = [];
+                              for (let i = 0; i < 547; i++) {
+                                const randomRowIndex = Math.floor(Math.random() * rows.length);
+                                randomRows.push(rows[randomRowIndex]);
+                                rows.splice(randomRowIndex, 1);
+                              }
+                              const csvData = randomRows.map(row => row.split(','));
+                              processData(csvData.map(row => row.join(',')).join('\n'));
+                            })
+                            .catch(error => console.error(error));
+                        }
+
+                        function processData(data, sortBy) {
+                          const rows = data.split('\n'); // Exclude the header row
+                          const csvData = rows.map(row => row.split(','));
+
+                          // Sort the csvData array according to the specified criteria
+                          if (sortBy === 'number') {
+                            csvData.sort((a, b) => parseInt(a[0]) - parseInt(b[0])); // Sort by tort number in descending order
+                          } else if (sortBy === 'inscription') {
+                            csvData.sort((a, b) => parseInt(a[2]) - parseInt(b[2])); // Sort by inscription number in ascending order
+                          } else if (sortBy === 'rarity') {
+                            csvData.sort((a, b) => parseFloat(a[4]) - parseFloat(b[4])); // Sort by rarity score in ascending order
+                          }
+
+                          const gridContainer = document.getElementById('grid-container');
+                          gridContainer.innerHTML = ''; // Clear the grid container before adding cells
+                          for (var i = 0; i < csvData.length; i++) {
+                            const row = csvData[i];
+                            const cell = document.createElement('div');
+                            cell.className = 'grid-cell';
+                            const box = document.createElement('div');
+                            box.className = 'grid-box';
+                            const img = document.createElement('img');
+                            img.src = `upscaled_torts/${row[0]}.png`;
+                            img.alt = `torts/${row[0]}.png`;
+                            const text = document.createElement('div');
+                            text.className = 'grid-text';
+                            const h3 = document.createElement('h3');
+                            h3.textContent = `Tort ${row[0]}`;
+                            const metadata = JSON.parse(metaData);
+                            const metadataRow = metadata[parseInt(row[0]) - 1];
+                            const metadataValues = Object.values(metadataRow);
+                            const metadataText = metadataValues.join(' | ');
+                            const p1 = document.createElement('p');
+                            const p2 = document.createElement('p');
+                            if (sortBy === 'rarity') {
+                              p1.textContent = `Rank: ${row[5]}`;
+                              p2.textContent = `Inscription ${row[2]}`;
+                            } else {
+                              p1.textContent = `Inscription ${row[2]}`;
+                              p2.textContent = `Rank: ${row[5]}`;
+                            }
+                            const p3 = document.createElement('p');
+                            p3.textContent = metadataText
+                            text.appendChild(h3);
+                            text.appendChild(p1);
+                            text.appendChild(p2);
+                            text.appendChild(p3);
+                            box.appendChild(img);
+                            box.appendChild(text);
+                            cell.appendChild(box);
+                            gridContainer.appendChild(cell);
+                          }
+                        }
+                      </script>                                                           
+                  </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
