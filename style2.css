@@ -202,7 +202,7 @@ transform: scale(1.2);
 }
 
 .sectwo-container {
-  position: absolute;
+  position: fixed;
   width: 100vw;
   height: 90vh;
   z-index: 2;
@@ -294,6 +294,25 @@ body {
   font-family: '8-BIT-WONDER', sans-serif;
   font-size: 0.8em;
   cursor: pointer;
+}
+
+.button-text {
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-family: '8-BIT-WONDER', sans-serif;
+  font-size: 0.8em;
+}
+
+.search-bar {
+  text-align: center;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  font-family: '8-BIT-WONDER', sans-serif;
+  font-size: 0.8em;
 }
 
 .sortBy {

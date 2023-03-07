@@ -38,9 +38,6 @@
             </button>
             </a>
             <a href="index.html">
-            <button class="navbtn" href="#">
-              Team
-            </button>
             </a>
             <a href="index.html">
             <button class="navbtn about-button" onclick="scrollToAboutSection()" href="#">
@@ -59,10 +56,11 @@
     <section class="sectwo">
         <div class="sectwo-container">
             <div class="buttons-container">
+              <p class="button-text">Sort By:</p>
               <button class="button" onclick="fetchAndProcessData('rarity')">Rarity</button>
               <button class="button" onclick="fetchAndProcessData('number')">Number</button>
               <button class="button" onclick="fetchAndProcessData('inscription')">Inscription</button>
-              <input type="text" id="search-bar" placeholder="Search by attribute">
+              <input type="text" class="search-bar" id="search-bar" placeholder="Search by attribute">
             </div>
             <div class="collection-container">
                 <div class="grid-container">
@@ -169,7 +167,7 @@
                             const text = document.createElement('div');
                             text.className = 'grid-text';
                             const h3 = document.createElement('h3');
-                            h3.textContent = `Tort: ${row[0]}`;
+                            h3.textContent = `Tort ${row[0]}`;
                             const metadata = JSON.parse(metaData);
                             const metadataRow = metadata[parseInt(row[0]) - 1];
                             const metadataValues = Object.values(metadataRow);
