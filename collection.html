@@ -38,9 +38,6 @@
             </button>
             </a>
             <a href="index.html">
-            <button class="navbtn" href="#">
-              Team
-            </button>
             </a>
             <a href="index.html">
             <button class="navbtn about-button" onclick="scrollToAboutSection()" href="#">
@@ -59,10 +56,11 @@
     <section class="sectwo">
         <div class="sectwo-container">
             <div class="buttons-container">
+              <p class="button-text">Sort By:</p>
               <button class="button" onclick="fetchAndProcessData('rarity')">Rarity</button>
               <button class="button" onclick="fetchAndProcessData('number')">Number</button>
               <button class="button" onclick="fetchAndProcessData('inscription')">Inscription</button>
-              <input type="text" id="search-bar" placeholder="Search by attribute">
+              <input type="text" class="search-bar" id="search-bar" placeholder="Search by attribute">
             </div>
             <div class="collection-container">
                 <div class="grid-container">
@@ -73,42 +71,77 @@
                             .then(response => response.json())
                             .then(data => {
                               metaData = JSON.stringify(data);
-                              fetchAndProcessData('number'); // Default sorting is by number
                               document.getElementById('search-bar').addEventListener('input', handleSearch);
+                              fetchAndProcessData();
                             })
                             .catch(error => console.error(error));
                         };
 
-                        function handleSearch() {
-                          const searchText = document.getElementById('search-bar').value.toLowerCase();
-                          const gridContainer = document.getElementById('grid-container');
-                          const gridCells = gridContainer.querySelectorAll('.grid-cell');
-                          gridCells.forEach(cell => {
-                            const cellText = cell.innerText.toLowerCase();
-                            if (cellText.includes(searchText)) {
-                              cell.style.display = 'block';
-                            } else {
-                              cell.style.display = 'none';
-                            }
+                        const buttons = document.querySelectorAll('.button');
+
+                        function handleClick(event) {
+                          buttons.forEach(button => {
+                            button.classList.remove('active');
                           });
+                          const button = event.currentTarget;
+                          button.classList.add('active');
+                          handleSearch();
                         }
 
-                        function fetchAndProcessData(sortBy) {
-                          let dataUrl = '';
-                          if (sortBy === 'number' || sortBy === 'inscription') {
-                            dataUrl = 'data.csv';
-                          } else if (sortBy === 'rarity') {
-                            dataUrl = 'data.csv'; // Update the dataUrl variable to point to the rarity.csv file
-                          }
+                        buttons.forEach(button => {
+                          button.addEventListener('click', handleClick);
+                        });
 
-                          fetch(dataUrl)
+                        function handleSearch() {
+                          const searchValue = document.getElementById('search-bar').value.toLowerCase();
+                          const sortBy = document.querySelector('.button.active').textContent.toLowerCase();
+                          fetch('data.csv')
                             .then(response => response.text())
-                            .then(data => processData(data, sortBy))
+                            .then(data => {
+                              const rows = data.split('\n').slice(1); // Exclude the header row
+                              const csvData = rows.map(row => row.split(','));
+                              const filteredData = csvData.filter(row => {
+                                const metadata = JSON.parse(metaData);
+                                const metadataRow = metadata[parseInt(row[0]) - 1];
+                                const metadataValues = Object.values(metadataRow);
+                                const metadataText = metadataValues.join(' ').toLowerCase();
+                                const searchText = `${row[0]} ${row[2]} ${metadataText}`;
+                                return searchText.includes(searchValue);
+                              });
+
+                              // Sort the filtered data based on the selected sorting criteria
+                              if (sortBy === 'rarity') {
+                                filteredData.sort((a, b) => parseFloat(a[4]) - parseFloat(b[4]));
+                              } else if (sortBy === 'inscription') {
+                                filteredData.sort((a, b) => parseInt(a[2]) - parseInt(b[2]));
+                              } else {
+                                filteredData.sort((a, b) => parseInt(a[0]) - parseInt(b[0]));
+                              }
+
+                              processData(filteredData.map(row => row.join(',')).join('\n'), sortBy);
+                            })
+                            .catch(error => console.error(error));
+                        }
+
+                        function fetchAndProcessData() {
+                          fetch('data.csv')
+                            .then(response => response.text())
+                            .then(data => {
+                              const rows = data.split('\n').slice(1); // Exclude the header row
+                              const randomRows = [];
+                              for (let i = 0; i < 547; i++) {
+                                const randomRowIndex = Math.floor(Math.random() * rows.length);
+                                randomRows.push(rows[randomRowIndex]);
+                                rows.splice(randomRowIndex, 1);
+                              }
+                              const csvData = randomRows.map(row => row.split(','));
+                              processData(csvData.map(row => row.join(',')).join('\n'));
+                            })
                             .catch(error => console.error(error));
                         }
 
                         function processData(data, sortBy) {
-                          const rows = data.split('\n').slice(1); // Exclude the header row
+                          const rows = data.split('\n'); // Exclude the header row
                           const csvData = rows.map(row => row.split(','));
 
                           // Sort the csvData array according to the specified criteria
@@ -134,7 +167,7 @@
                             const text = document.createElement('div');
                             text.className = 'grid-text';
                             const h3 = document.createElement('h3');
-                            h3.textContent = `Tort: ${row[0]}`;
+                            h3.textContent = `Tort ${row[0]}`;
                             const metadata = JSON.parse(metaData);
                             const metadataRow = metadata[parseInt(row[0]) - 1];
                             const metadataValues = Object.values(metadataRow);
@@ -148,9 +181,12 @@
                               p1.textContent = `Inscription ${row[2]}`;
                               p2.textContent = `Rank: ${row[5]}`;
                             }
+                            const p3 = document.createElement('p');
+                            p3.textContent = metadataText
                             text.appendChild(h3);
                             text.appendChild(p1);
                             text.appendChild(p2);
+                            text.appendChild(p3);
                             box.appendChild(img);
                             box.appendChild(text);
                             cell.appendChild(box);
