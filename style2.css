@@ -262,6 +262,7 @@ transform: scale(1.2);
   width: 80vw; /* Adjust the width as needed */
   height: 85vh;
   margin: 0 auto;
+  scroll-behavior: smooth;
 }
 
 
@@ -274,6 +275,7 @@ transform: scale(1.2);
   height: 80vh;
   margin: 0 auto;
   background-color: transparent;
+  scroll-behavior: smooth;
 }
 
 .grid-cell {
