@@ -124,6 +124,34 @@ p, h1, h2, h3, h4, h5, h6 {
   font-family: 'Fipps-Regular';
   src: url('Fipps-Regular.otf') format('opentype');
 }
+
+.audio-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  z-index: 999;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: rgb(255, 255, 255);
+}
+
+audio::-webkit-media-controls-play-button {
+  color: white;
+}
+
+audio::-webkit-media-controls-volume-slider {
+  background-color: white;
+}
+
+audio::-webkit-media-controls-timeline {
+  background-color: white;
+  display: none !important;
+}
+
 .top-bar {
   display: flex;
   justify-content: space-between;
