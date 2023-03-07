@@ -545,7 +545,7 @@ a {
 }
 @media screen and (max-width: 765px) {
   body {
-    background-image: url('mobilemeep2.jpg');
+    background-image: url('images/mobilemeep2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
