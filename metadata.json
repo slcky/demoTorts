@@ -1,86 +1,6 @@
 [
     {
         "Serial Number": "1",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "2",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "3",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "4",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "5",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "6",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "7",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "8",
-        "Inscription Number": "???",
-        "Sex": "???",
-        "Shell": "???",
-        "Skin": "???",
-        "Mouth": "???",
-        "Hat": "???",
-        "Eyes": "???"
-    },
-    {
-        "Serial Number": "9",
         "Inscription Number": "17350",
         "Sex": "Female",
         "Shell": "Round",
@@ -90,7 +10,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "10",
+        "Serial Number": "2",
         "Inscription Number": "35916",
         "Sex": "Female",
         "Shell": "Gold",
@@ -100,7 +20,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "11",
+        "Serial Number": "3",
         "Inscription Number": "40541",
         "Sex": "Female",
         "Shell": "Round",
@@ -110,7 +30,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "12",
+        "Serial Number": "4",
         "Inscription Number": "40665",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -120,7 +40,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "13",
+        "Serial Number": "5",
         "Inscription Number": "40144",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -130,7 +50,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "14",
+        "Serial Number": "6",
         "Inscription Number": "35788",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -140,7 +60,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "15",
+        "Serial Number": "7",
         "Inscription Number": "16621",
         "Sex": "Female",
         "Shell": "Round",
@@ -150,7 +70,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "16",
+        "Serial Number": "8",
         "Inscription Number": "40161",
         "Sex": "Female",
         "Shell": "Round",
@@ -160,7 +80,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "17",
+        "Serial Number": "9",
         "Inscription Number": "40050",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -170,7 +90,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "18",
+        "Serial Number": "10",
         "Inscription Number": "37707",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -180,7 +100,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "19",
+        "Serial Number": "11",
         "Inscription Number": "40374",
         "Sex": "Female",
         "Shell": "Gold",
@@ -190,7 +110,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "20",
+        "Serial Number": "12",
         "Inscription Number": "17203",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -200,7 +120,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "21",
+        "Serial Number": "13",
         "Inscription Number": "39868",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -210,7 +130,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "22",
+        "Serial Number": "14",
         "Inscription Number": "39872",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -220,7 +140,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "23",
+        "Serial Number": "15",
         "Inscription Number": "40652",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -230,7 +150,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "24",
+        "Serial Number": "16",
         "Inscription Number": "40243",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -240,7 +160,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "25",
+        "Serial Number": "17",
         "Inscription Number": "16188",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -250,7 +170,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "26",
+        "Serial Number": "18",
         "Inscription Number": "40037",
         "Sex": "Male",
         "Shell": "Round",
@@ -260,7 +180,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "27",
+        "Serial Number": "19",
         "Inscription Number": "40292",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -270,7 +190,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "28",
+        "Serial Number": "20",
         "Inscription Number": "17214",
         "Sex": "Female",
         "Shell": "Round",
@@ -280,7 +200,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "29",
+        "Serial Number": "21",
         "Inscription Number": "39950",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -290,7 +210,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "30",
+        "Serial Number": "22",
         "Inscription Number": "40333",
         "Sex": "Male",
         "Shell": "Fire",
@@ -300,7 +220,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "31",
+        "Serial Number": "23",
         "Inscription Number": "40765",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -310,7 +230,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "32",
+        "Serial Number": "24",
         "Inscription Number": "16639",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -320,7 +240,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "33",
+        "Serial Number": "25",
         "Inscription Number": "40048",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -330,7 +250,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "34",
+        "Serial Number": "26",
         "Inscription Number": "16625",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -340,7 +260,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "35",
+        "Serial Number": "27",
         "Inscription Number": "40298",
         "Sex": "Female",
         "Shell": "Fire",
@@ -350,7 +270,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "36",
+        "Serial Number": "28",
         "Inscription Number": "39881",
         "Sex": "Male",
         "Shell": "Gold",
@@ -360,7 +280,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "37",
+        "Serial Number": "29",
         "Inscription Number": "40232",
         "Sex": "Male",
         "Shell": "Fire",
@@ -370,7 +290,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "38",
+        "Serial Number": "30",
         "Inscription Number": "40784",
         "Sex": "Female",
         "Shell": "Fire",
@@ -380,7 +300,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "39",
+        "Serial Number": "31",
         "Inscription Number": "40925",
         "Sex": "Female",
         "Shell": "Round",
@@ -390,7 +310,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "40",
+        "Serial Number": "32",
         "Inscription Number": "40663",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -400,7 +320,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "41",
+        "Serial Number": "33",
         "Inscription Number": "40178",
         "Sex": "Female",
         "Shell": "Gold",
@@ -410,7 +330,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "42",
+        "Serial Number": "34",
         "Inscription Number": "40237",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -420,7 +340,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "43",
+        "Serial Number": "35",
         "Inscription Number": "40375",
         "Sex": "Male",
         "Shell": "Fire",
@@ -430,7 +350,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "44",
+        "Serial Number": "36",
         "Inscription Number": "39888",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -440,7 +360,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "45",
+        "Serial Number": "37",
         "Inscription Number": "40546",
         "Sex": "Male",
         "Shell": "Gold",
@@ -450,7 +370,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "46",
+        "Serial Number": "38",
         "Inscription Number": "38960",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -460,7 +380,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "47",
+        "Serial Number": "39",
         "Inscription Number": "39262",
         "Sex": "Female",
         "Shell": "Fire",
@@ -470,7 +390,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "48",
+        "Serial Number": "40",
         "Inscription Number": "17196",
         "Sex": "Male",
         "Shell": "Round",
@@ -480,7 +400,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "49",
+        "Serial Number": "41",
         "Inscription Number": "40051",
         "Sex": "Female",
         "Shell": "Round",
@@ -490,7 +410,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "50",
+        "Serial Number": "42",
         "Inscription Number": "40518",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -500,7 +420,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "51",
+        "Serial Number": "43",
         "Inscription Number": "38963",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -510,7 +430,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "52",
+        "Serial Number": "44",
         "Inscription Number": "40341",
         "Sex": "Female",
         "Shell": "Fire",
@@ -520,7 +440,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "53",
+        "Serial Number": "45",
         "Inscription Number": "39952",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -530,7 +450,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "54",
+        "Serial Number": "46",
         "Inscription Number": "40029",
         "Sex": "Female",
         "Shell": "Fire",
@@ -540,7 +460,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "55",
+        "Serial Number": "47",
         "Inscription Number": "40928",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -550,7 +470,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "56",
+        "Serial Number": "48",
         "Inscription Number": "40780",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -560,7 +480,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "57",
+        "Serial Number": "49",
         "Inscription Number": "33598",
         "Sex": "Female",
         "Shell": "Fire",
@@ -570,7 +490,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "58",
+        "Serial Number": "50",
         "Inscription Number": "39940",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -580,7 +500,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "59",
+        "Serial Number": "51",
         "Inscription Number": "17054",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -590,7 +510,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "60",
+        "Serial Number": "52",
         "Inscription Number": "40047",
         "Sex": "Female",
         "Shell": "Round",
@@ -600,7 +520,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "61",
+        "Serial Number": "53",
         "Inscription Number": "17046",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -610,7 +530,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "62",
+        "Serial Number": "54",
         "Inscription Number": "40038",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -620,7 +540,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "63",
+        "Serial Number": "55",
         "Inscription Number": "40540",
         "Sex": "Male",
         "Shell": "Round",
@@ -630,7 +550,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "64",
+        "Serial Number": "56",
         "Inscription Number": "40296",
         "Sex": "Female",
         "Shell": "Round",
@@ -640,7 +560,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "65",
+        "Serial Number": "57",
         "Inscription Number": "17045",
         "Sex": "Male",
         "Shell": "Round",
@@ -650,7 +570,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "66",
+        "Serial Number": "58",
         "Inscription Number": "40162",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -660,7 +580,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "67",
+        "Serial Number": "59",
         "Inscription Number": "16663",
         "Sex": "Female",
         "Shell": "Round",
@@ -670,7 +590,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "68",
+        "Serial Number": "60",
         "Inscription Number": "39263",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -680,7 +600,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "69",
+        "Serial Number": "61",
         "Inscription Number": "40531",
         "Sex": "Female",
         "Shell": "Fire",
@@ -690,7 +610,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "70",
+        "Serial Number": "62",
         "Inscription Number": "17291",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -700,7 +620,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "71",
+        "Serial Number": "63",
         "Inscription Number": "40231",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -710,7 +630,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "72",
+        "Serial Number": "64",
         "Inscription Number": "46065",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -720,7 +640,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "73",
+        "Serial Number": "65",
         "Inscription Number": "39266",
         "Sex": "Female",
         "Shell": "Round",
@@ -730,7 +650,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "74",
+        "Serial Number": "66",
         "Inscription Number": "39942",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -740,7 +660,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "75",
+        "Serial Number": "67",
         "Inscription Number": "46075",
         "Sex": "Female",
         "Shell": "Fire",
@@ -750,7 +670,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "76",
+        "Serial Number": "68",
         "Inscription Number": "39948",
         "Sex": "Male",
         "Shell": "Round",
@@ -760,7 +680,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "77",
+        "Serial Number": "69",
         "Inscription Number": "40299",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -770,7 +690,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "78",
+        "Serial Number": "70",
         "Inscription Number": "17043",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -780,7 +700,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "79",
+        "Serial Number": "71",
         "Inscription Number": "16620",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -790,7 +710,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "80",
+        "Serial Number": "72",
         "Inscription Number": "39273",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -800,7 +720,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "81",
+        "Serial Number": "73",
         "Inscription Number": "45632",
         "Sex": "Female",
         "Shell": "Fire",
@@ -810,7 +730,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "82",
+        "Serial Number": "74",
         "Inscription Number": "45682",
         "Sex": "Male",
         "Shell": "Gold",
@@ -820,7 +740,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "83",
+        "Serial Number": "75",
         "Inscription Number": "40343",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -830,7 +750,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "84",
+        "Serial Number": "76",
         "Inscription Number": "40661",
         "Sex": "Female",
         "Shell": "Gold",
@@ -840,7 +760,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "85",
+        "Serial Number": "77",
         "Inscription Number": "37359",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -850,7 +770,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "86",
+        "Serial Number": "78",
         "Inscription Number": "40166",
         "Sex": "Female",
         "Shell": "Fire",
@@ -860,7 +780,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "87",
+        "Serial Number": "79",
         "Inscription Number": "45623",
         "Sex": "Male",
         "Shell": "Round",
@@ -870,7 +790,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "88",
+        "Serial Number": "80",
         "Inscription Number": "45956",
         "Sex": "Female",
         "Shell": "Gold",
@@ -880,7 +800,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "89",
+        "Serial Number": "81",
         "Inscription Number": "40164",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -890,7 +810,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "90",
+        "Serial Number": "82",
         "Inscription Number": "38969",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -900,7 +820,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "91",
+        "Serial Number": "83",
         "Inscription Number": "39954",
         "Sex": "Male",
         "Shell": "Round",
@@ -910,7 +830,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "92",
+        "Serial Number": "84",
         "Inscription Number": "35733",
         "Sex": "Female",
         "Shell": "Gold",
@@ -920,7 +840,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "93",
+        "Serial Number": "85",
         "Inscription Number": "40328",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -930,7 +850,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "94",
+        "Serial Number": "86",
         "Inscription Number": "26080",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -940,7 +860,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "95",
+        "Serial Number": "87",
         "Inscription Number": "40117",
         "Sex": "Male",
         "Shell": "Fire",
@@ -950,7 +870,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "96",
+        "Serial Number": "88",
         "Inscription Number": "39947",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -960,7 +880,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "97",
+        "Serial Number": "89",
         "Inscription Number": "45615",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -970,7 +890,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "98",
+        "Serial Number": "90",
         "Inscription Number": "39159",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -980,7 +900,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "99",
+        "Serial Number": "91",
         "Inscription Number": "45344",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -990,7 +910,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "100",
+        "Serial Number": "92",
         "Inscription Number": "40245",
         "Sex": "Male",
         "Shell": "Round",
@@ -1000,7 +920,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "101",
+        "Serial Number": "93",
         "Inscription Number": "39869",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1010,7 +930,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "102",
+        "Serial Number": "94",
         "Inscription Number": "40173",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1020,7 +940,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "103",
+        "Serial Number": "95",
         "Inscription Number": "40240",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1030,7 +950,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "104",
+        "Serial Number": "96",
         "Inscription Number": "39608",
         "Sex": "Female",
         "Shell": "Round",
@@ -1040,7 +960,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "105",
+        "Serial Number": "97",
         "Inscription Number": "45693",
         "Sex": "Male",
         "Shell": "Gold",
@@ -1050,7 +970,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "106",
+        "Serial Number": "98",
         "Inscription Number": "40544",
         "Sex": "Male",
         "Shell": "Fire",
@@ -1060,7 +980,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "107",
+        "Serial Number": "99",
         "Inscription Number": "45688",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1070,7 +990,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "108",
+        "Serial Number": "100",
         "Inscription Number": "45881",
         "Sex": "Male",
         "Shell": "Gold",
@@ -1080,7 +1000,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "109",
+        "Serial Number": "101",
         "Inscription Number": "45945",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1090,7 +1010,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "110",
+        "Serial Number": "102",
         "Inscription Number": "46072",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -1100,7 +1020,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "111",
+        "Serial Number": "103",
         "Inscription Number": "45685",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1110,7 +1030,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "112",
+        "Serial Number": "104",
         "Inscription Number": "45747",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1120,7 +1040,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "113",
+        "Serial Number": "105",
         "Inscription Number": "39946",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1130,7 +1050,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "114",
+        "Serial Number": "106",
         "Inscription Number": "45626",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1140,7 +1060,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "115",
+        "Serial Number": "107",
         "Inscription Number": "38086",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1150,7 +1070,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "116",
+        "Serial Number": "108",
         "Inscription Number": "45617",
         "Sex": "Female",
         "Shell": "Round",
@@ -1160,7 +1080,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "117",
+        "Serial Number": "109",
         "Inscription Number": "45474",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1170,7 +1090,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "118",
+        "Serial Number": "110",
         "Inscription Number": "40768",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1180,7 +1100,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "119",
+        "Serial Number": "111",
         "Inscription Number": "41051",
         "Sex": "Male",
         "Shell": "Round",
@@ -1190,7 +1110,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "120",
+        "Serial Number": "112",
         "Inscription Number": "40036",
         "Sex": "Female",
         "Shell": "Round",
@@ -1200,7 +1120,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "121",
+        "Serial Number": "113",
         "Inscription Number": "45754",
         "Sex": "Female",
         "Shell": "Round",
@@ -1210,7 +1130,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "122",
+        "Serial Number": "114",
         "Inscription Number": "39875",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1220,7 +1140,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "123",
+        "Serial Number": "115",
         "Inscription Number": "45424",
         "Sex": "Male",
         "Shell": "Gold",
@@ -1230,7 +1150,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "124",
+        "Serial Number": "116",
         "Inscription Number": "45625",
         "Sex": "Male",
         "Shell": "Round",
@@ -1240,7 +1160,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "125",
+        "Serial Number": "117",
         "Inscription Number": "37961",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -1250,7 +1170,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "126",
+        "Serial Number": "118",
         "Inscription Number": "45622",
         "Sex": "Female",
         "Shell": "Round",
@@ -1260,7 +1180,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "127",
+        "Serial Number": "119",
         "Inscription Number": "45755",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1270,7 +1190,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "128",
+        "Serial Number": "120",
         "Inscription Number": "40045",
         "Sex": "Female",
         "Shell": "Round",
@@ -1280,7 +1200,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "129",
+        "Serial Number": "121",
         "Inscription Number": "39149",
         "Sex": "Male",
         "Shell": "Gold",
@@ -1290,7 +1210,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "130",
+        "Serial Number": "122",
         "Inscription Number": "45947",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1300,7 +1220,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "131",
+        "Serial Number": "123",
         "Inscription Number": "39150",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1310,7 +1230,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "132",
+        "Serial Number": "124",
         "Inscription Number": "40522",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1320,7 +1240,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "133",
+        "Serial Number": "125",
         "Inscription Number": "39161",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1330,7 +1250,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "134",
+        "Serial Number": "126",
         "Inscription Number": "25876",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1340,7 +1260,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "135",
+        "Serial Number": "127",
         "Inscription Number": "40157",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1350,7 +1270,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "136",
+        "Serial Number": "128",
         "Inscription Number": "39936",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1360,7 +1280,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "137",
+        "Serial Number": "129",
         "Inscription Number": "39938",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1370,7 +1290,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "138",
+        "Serial Number": "130",
         "Inscription Number": "40331",
         "Sex": "Female",
         "Shell": "Round",
@@ -1380,7 +1300,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "139",
+        "Serial Number": "131",
         "Inscription Number": "40242",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1390,7 +1310,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "140",
+        "Serial Number": "132",
         "Inscription Number": "40248",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1400,7 +1320,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "141",
+        "Serial Number": "133",
         "Inscription Number": "40250",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1410,7 +1330,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "142",
+        "Serial Number": "134",
         "Inscription Number": "40527",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1420,7 +1340,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "143",
+        "Serial Number": "135",
         "Inscription Number": "45867",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -1430,7 +1350,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "144",
+        "Serial Number": "136",
         "Inscription Number": "45384",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1440,7 +1360,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "145",
+        "Serial Number": "137",
         "Inscription Number": "45261",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1450,7 +1370,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "146",
+        "Serial Number": "138",
         "Inscription Number": "37594",
         "Sex": "Male",
         "Shell": "Fire",
@@ -1460,7 +1380,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "147",
+        "Serial Number": "139",
         "Inscription Number": "39870",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1470,7 +1390,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "148",
+        "Serial Number": "140",
         "Inscription Number": "45481",
         "Sex": "Male",
         "Shell": "Round",
@@ -1480,7 +1400,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "149",
+        "Serial Number": "141",
         "Inscription Number": "34968",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1490,7 +1410,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "150",
+        "Serial Number": "142",
         "Inscription Number": "39620",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1500,7 +1420,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "151",
+        "Serial Number": "143",
         "Inscription Number": "39611",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1510,7 +1430,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "152",
+        "Serial Number": "144",
         "Inscription Number": "45757",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1520,7 +1440,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "153",
+        "Serial Number": "145",
         "Inscription Number": "45869",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1530,7 +1450,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "154",
+        "Serial Number": "146",
         "Inscription Number": "45402",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1540,7 +1460,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "155",
+        "Serial Number": "147",
         "Inscription Number": "40122",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1550,7 +1470,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "156",
+        "Serial Number": "148",
         "Inscription Number": "45346",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1560,7 +1480,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "157",
+        "Serial Number": "149",
         "Inscription Number": "45698",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1570,7 +1490,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "158",
+        "Serial Number": "150",
         "Inscription Number": "39282",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1580,7 +1500,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "159",
+        "Serial Number": "151",
         "Inscription Number": "45690",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1590,7 +1510,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "160",
+        "Serial Number": "152",
         "Inscription Number": "45257",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1600,7 +1520,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "161",
+        "Serial Number": "153",
         "Inscription Number": "45620",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1610,7 +1530,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "162",
+        "Serial Number": "154",
         "Inscription Number": "39623",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1620,7 +1540,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "163",
+        "Serial Number": "155",
         "Inscription Number": "40239",
         "Sex": "Female",
         "Shell": "Round",
@@ -1630,7 +1550,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "164",
+        "Serial Number": "156",
         "Inscription Number": "40529",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1640,7 +1560,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "165",
+        "Serial Number": "157",
         "Inscription Number": "40028",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1650,7 +1570,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "166",
+        "Serial Number": "158",
         "Inscription Number": "39260",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1660,7 +1580,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "167",
+        "Serial Number": "159",
         "Inscription Number": "45699",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1670,7 +1590,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "168",
+        "Serial Number": "160",
         "Inscription Number": "40763",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1680,7 +1600,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "169",
+        "Serial Number": "161",
         "Inscription Number": "45618",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1690,7 +1610,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "170",
+        "Serial Number": "162",
         "Inscription Number": "40715",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1700,7 +1620,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "171",
+        "Serial Number": "163",
         "Inscription Number": "26589",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1710,7 +1630,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "172",
+        "Serial Number": "164",
         "Inscription Number": "37959",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1720,7 +1640,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "173",
+        "Serial Number": "165",
         "Inscription Number": "40654",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1730,7 +1650,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "174",
+        "Serial Number": "166",
         "Inscription Number": "17352",
         "Sex": "Female",
         "Shell": "Round",
@@ -1740,7 +1660,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "175",
+        "Serial Number": "167",
         "Inscription Number": "35795",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1750,7 +1670,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "176",
+        "Serial Number": "168",
         "Inscription Number": "45264",
         "Sex": "Male",
         "Shell": "Round",
@@ -1760,7 +1680,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "177",
+        "Serial Number": "169",
         "Inscription Number": "16623",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1770,7 +1690,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "178",
+        "Serial Number": "170",
         "Inscription Number": "40519",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1780,7 +1700,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "179",
+        "Serial Number": "171",
         "Inscription Number": "40713",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1790,7 +1710,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "180",
+        "Serial Number": "172",
         "Inscription Number": "39279",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1800,7 +1720,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "181",
+        "Serial Number": "173",
         "Inscription Number": "39157",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1810,7 +1730,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "182",
+        "Serial Number": "174",
         "Inscription Number": "40145",
         "Sex": "Female",
         "Shell": "Round",
@@ -1820,7 +1740,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "183",
+        "Serial Number": "175",
         "Inscription Number": "38979",
         "Sex": "Male",
         "Shell": "Round",
@@ -1830,7 +1750,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "184",
+        "Serial Number": "176",
         "Inscription Number": "45948",
         "Sex": "Male",
         "Shell": "Fire",
@@ -1840,7 +1760,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "185",
+        "Serial Number": "177",
         "Inscription Number": "17039",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1850,7 +1770,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "186",
+        "Serial Number": "178",
         "Inscription Number": "17127",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -1860,7 +1780,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "187",
+        "Serial Number": "179",
         "Inscription Number": "40929",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1870,7 +1790,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "188",
+        "Serial Number": "180",
         "Inscription Number": "35630",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1880,7 +1800,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "189",
+        "Serial Number": "181",
         "Inscription Number": "40039",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1890,7 +1810,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "190",
+        "Serial Number": "182",
         "Inscription Number": "40303",
         "Sex": "Female",
         "Shell": "Fire",
@@ -1900,7 +1820,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "191",
+        "Serial Number": "183",
         "Inscription Number": "35183",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -1910,7 +1830,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "192",
+        "Serial Number": "184",
         "Inscription Number": "39151",
         "Sex": "Female",
         "Shell": "Round",
@@ -1920,7 +1840,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "193",
+        "Serial Number": "185",
         "Inscription Number": "39272",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1930,7 +1850,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "194",
+        "Serial Number": "186",
         "Inscription Number": "46161",
         "Sex": "Male",
         "Shell": "Round",
@@ -1940,7 +1860,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "195",
+        "Serial Number": "187",
         "Inscription Number": "40247",
         "Sex": "Female",
         "Shell": "Gold",
@@ -1950,7 +1870,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "196",
+        "Serial Number": "188",
         "Inscription Number": "17041",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -1960,7 +1880,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "197",
+        "Serial Number": "189",
         "Inscription Number": "45871",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -1970,7 +1890,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "198",
+        "Serial Number": "190",
         "Inscription Number": "45483",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -1980,7 +1900,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "199",
+        "Serial Number": "191",
         "Inscription Number": "35794",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -1990,7 +1910,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "200",
+        "Serial Number": "192",
         "Inscription Number": "38611",
         "Sex": "Female",
         "Shell": "Round",
@@ -2000,7 +1920,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "201",
+        "Serial Number": "193",
         "Inscription Number": "40300",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2010,7 +1930,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "202",
+        "Serial Number": "194",
         "Inscription Number": "39155",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2020,7 +1940,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "203",
+        "Serial Number": "195",
         "Inscription Number": "45870",
         "Sex": "Male",
         "Shell": "Round",
@@ -2030,7 +1950,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "204",
+        "Serial Number": "196",
         "Inscription Number": "45694",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2040,7 +1960,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "205",
+        "Serial Number": "197",
         "Inscription Number": "39275",
         "Sex": "Female",
         "Shell": "Round",
@@ -2050,7 +1970,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "206",
+        "Serial Number": "198",
         "Inscription Number": "38957",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2060,7 +1980,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "207",
+        "Serial Number": "199",
         "Inscription Number": "40545",
         "Sex": "Female",
         "Shell": "Round",
@@ -2070,7 +1990,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "208",
+        "Serial Number": "200",
         "Inscription Number": "45473",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2080,7 +2000,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "209",
+        "Serial Number": "201",
         "Inscription Number": "45476",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2090,7 +2010,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "210",
+        "Serial Number": "202",
         "Inscription Number": "46156",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2100,7 +2020,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "211",
+        "Serial Number": "203",
         "Inscription Number": "40165",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2110,7 +2030,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "212",
+        "Serial Number": "204",
         "Inscription Number": "38956",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2120,7 +2040,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "213",
+        "Serial Number": "205",
         "Inscription Number": "40523",
         "Sex": "Male",
         "Shell": "Round",
@@ -2130,7 +2050,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "214",
+        "Serial Number": "206",
         "Inscription Number": "45756",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2140,7 +2060,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "215",
+        "Serial Number": "207",
         "Inscription Number": "40168",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2150,7 +2070,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "216",
+        "Serial Number": "208",
         "Inscription Number": "40119",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2160,7 +2080,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "217",
+        "Serial Number": "209",
         "Inscription Number": "40132",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -2170,7 +2090,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "218",
+        "Serial Number": "210",
         "Inscription Number": "45695",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2180,7 +2100,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "219",
+        "Serial Number": "211",
         "Inscription Number": "45621",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2190,7 +2110,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "220",
+        "Serial Number": "212",
         "Inscription Number": "39612",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2200,7 +2120,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "221",
+        "Serial Number": "213",
         "Inscription Number": "45416",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2210,7 +2130,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "222",
+        "Serial Number": "214",
         "Inscription Number": "39619",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2220,7 +2140,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "223",
+        "Serial Number": "215",
         "Inscription Number": "40539",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2230,7 +2150,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "224",
+        "Serial Number": "216",
         "Inscription Number": "45750",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2240,7 +2160,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "225",
+        "Serial Number": "217",
         "Inscription Number": "40040",
         "Sex": "Male",
         "Shell": "Round",
@@ -2250,7 +2170,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "226",
+        "Serial Number": "218",
         "Inscription Number": "39935",
         "Sex": "Female",
         "Shell": "Round",
@@ -2260,7 +2180,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "227",
+        "Serial Number": "219",
         "Inscription Number": "39277",
         "Sex": "Female",
         "Shell": "Round",
@@ -2270,7 +2190,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "228",
+        "Serial Number": "220",
         "Inscription Number": "40135",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2280,7 +2200,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "229",
+        "Serial Number": "221",
         "Inscription Number": "45348",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2290,7 +2210,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "230",
+        "Serial Number": "222",
         "Inscription Number": "18110",
         "Sex": "Male",
         "Shell": "Gold",
@@ -2300,7 +2220,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "231",
+        "Serial Number": "223",
         "Inscription Number": "40158",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2310,7 +2230,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "232",
+        "Serial Number": "224",
         "Inscription Number": "40376",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2320,7 +2240,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "233",
+        "Serial Number": "225",
         "Inscription Number": "46157",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2330,7 +2250,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "234",
+        "Serial Number": "226",
         "Inscription Number": "35784",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2340,7 +2260,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "235",
+        "Serial Number": "227",
         "Inscription Number": "46070",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -2350,7 +2270,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "236",
+        "Serial Number": "228",
         "Inscription Number": "40714",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2360,7 +2280,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "237",
+        "Serial Number": "229",
         "Inscription Number": "39261",
         "Sex": "Male",
         "Shell": "Round",
@@ -2370,7 +2290,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "238",
+        "Serial Number": "230",
         "Inscription Number": "38982",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2380,7 +2300,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "239",
+        "Serial Number": "231",
         "Inscription Number": "35567",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2390,7 +2310,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "240",
+        "Serial Number": "232",
         "Inscription Number": "45412",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2400,7 +2320,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "241",
+        "Serial Number": "233",
         "Inscription Number": "40134",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2410,7 +2330,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "242",
+        "Serial Number": "234",
         "Inscription Number": "39158",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2420,7 +2340,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "243",
+        "Serial Number": "235",
         "Inscription Number": "40332",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2430,7 +2350,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "244",
+        "Serial Number": "236",
         "Inscription Number": "40129",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2440,7 +2360,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "245",
+        "Serial Number": "237",
         "Inscription Number": "39613",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2450,7 +2370,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "246",
+        "Serial Number": "238",
         "Inscription Number": "45479",
         "Sex": "Female",
         "Shell": "Round",
@@ -2460,7 +2380,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "247",
+        "Serial Number": "239",
         "Inscription Number": "45418",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -2470,7 +2390,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "248",
+        "Serial Number": "240",
         "Inscription Number": "38961",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2480,7 +2400,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "249",
+        "Serial Number": "241",
         "Inscription Number": "45955",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2490,7 +2410,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "250",
+        "Serial Number": "242",
         "Inscription Number": "38972",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2500,7 +2420,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "251",
+        "Serial Number": "243",
         "Inscription Number": "39457",
         "Sex": "Female",
         "Shell": "Round",
@@ -2510,7 +2430,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "252",
+        "Serial Number": "244",
         "Inscription Number": "38954",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2520,7 +2440,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "253",
+        "Serial Number": "245",
         "Inscription Number": "17049",
         "Sex": "Female",
         "Shell": "Round",
@@ -2530,7 +2450,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "254",
+        "Serial Number": "246",
         "Inscription Number": "38964",
         "Sex": "Female",
         "Shell": "Round",
@@ -2540,7 +2460,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "255",
+        "Serial Number": "247",
         "Inscription Number": "45875",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2550,7 +2470,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "256",
+        "Serial Number": "248",
         "Inscription Number": "39886",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2560,7 +2480,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "257",
+        "Serial Number": "249",
         "Inscription Number": "45873",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2570,7 +2490,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "258",
+        "Serial Number": "250",
         "Inscription Number": "45748",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2580,7 +2500,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "259",
+        "Serial Number": "251",
         "Inscription Number": "40031",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2590,7 +2510,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "260",
+        "Serial Number": "252",
         "Inscription Number": "39956",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2600,7 +2520,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "261",
+        "Serial Number": "253",
         "Inscription Number": "46154",
         "Sex": "Female",
         "Shell": "Round",
@@ -2610,7 +2530,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "262",
+        "Serial Number": "254",
         "Inscription Number": "39866",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -2620,7 +2540,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "263",
+        "Serial Number": "255",
         "Inscription Number": "38959",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2630,7 +2550,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "264",
+        "Serial Number": "256",
         "Inscription Number": "40172",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2640,7 +2560,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "265",
+        "Serial Number": "257",
         "Inscription Number": "45477",
         "Sex": "Female",
         "Shell": "Round",
@@ -2650,7 +2570,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "266",
+        "Serial Number": "258",
         "Inscription Number": "45950",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2660,7 +2580,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "267",
+        "Serial Number": "259",
         "Inscription Number": "39622",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2670,7 +2590,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "268",
+        "Serial Number": "260",
         "Inscription Number": "40302",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2680,7 +2600,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "269",
+        "Serial Number": "261",
         "Inscription Number": "39280",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2690,7 +2610,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "270",
+        "Serial Number": "262",
         "Inscription Number": "40238",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2700,7 +2620,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "271",
+        "Serial Number": "263",
         "Inscription Number": "40142",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2710,7 +2630,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "272",
+        "Serial Number": "264",
         "Inscription Number": "45745",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2720,7 +2640,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "273",
+        "Serial Number": "265",
         "Inscription Number": "40049",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2730,7 +2650,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "274",
+        "Serial Number": "266",
         "Inscription Number": "17526",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2740,7 +2660,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "275",
+        "Serial Number": "267",
         "Inscription Number": "39264",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -2750,7 +2670,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "276",
+        "Serial Number": "268",
         "Inscription Number": "20555",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2760,7 +2680,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "277",
+        "Serial Number": "269",
         "Inscription Number": "17207",
         "Sex": "Female",
         "Shell": "Round",
@@ -2770,7 +2690,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "278",
+        "Serial Number": "270",
         "Inscription Number": "35786",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2780,7 +2700,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "279",
+        "Serial Number": "271",
         "Inscription Number": "45689",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2790,7 +2710,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "280",
+        "Serial Number": "272",
         "Inscription Number": "45624",
         "Sex": "Female",
         "Shell": "Round",
@@ -2800,7 +2720,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "281",
+        "Serial Number": "273",
         "Inscription Number": "39949",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2810,7 +2730,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "282",
+        "Serial Number": "274",
         "Inscription Number": "45260",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -2820,7 +2740,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "283",
+        "Serial Number": "275",
         "Inscription Number": "38976",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -2830,7 +2750,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "284",
+        "Serial Number": "276",
         "Inscription Number": "35790",
         "Sex": "Female",
         "Shell": "Gold",
@@ -2840,7 +2760,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "285",
+        "Serial Number": "277",
         "Inscription Number": "39283",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2850,7 +2770,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "286",
+        "Serial Number": "278",
         "Inscription Number": "35530",
         "Sex": "Male",
         "Shell": "Fire",
@@ -2860,7 +2780,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "287",
+        "Serial Number": "279",
         "Inscription Number": "35917",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -2870,7 +2790,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "288",
+        "Serial Number": "280",
         "Inscription Number": "40123",
         "Sex": "Female",
         "Shell": "Round",
@@ -2880,7 +2800,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "289",
+        "Serial Number": "281",
         "Inscription Number": "35735",
         "Sex": "Male",
         "Shell": "Round",
@@ -2890,7 +2810,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "290",
+        "Serial Number": "282",
         "Inscription Number": "40246",
         "Sex": "Female",
         "Shell": "Round",
@@ -2900,7 +2820,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "291",
+        "Serial Number": "283",
         "Inscription Number": "45388",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2910,7 +2830,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "292",
+        "Serial Number": "284",
         "Inscription Number": "39154",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2920,7 +2840,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "293",
+        "Serial Number": "285",
         "Inscription Number": "45697",
         "Sex": "Male",
         "Shell": "Round",
@@ -2930,7 +2850,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "294",
+        "Serial Number": "286",
         "Inscription Number": "35787",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2940,7 +2860,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "295",
+        "Serial Number": "287",
         "Inscription Number": "40664",
         "Sex": "Female",
         "Shell": "Fire",
@@ -2950,7 +2870,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "296",
+        "Serial Number": "288",
         "Inscription Number": "39281",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -2960,7 +2880,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "297",
+        "Serial Number": "289",
         "Inscription Number": "35791",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -2970,7 +2890,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "298",
+        "Serial Number": "290",
         "Inscription Number": "39941",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -2980,7 +2900,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "299",
+        "Serial Number": "291",
         "Inscription Number": "45952",
         "Sex": "Male",
         "Shell": "Gold",
@@ -2990,7 +2910,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "300",
+        "Serial Number": "292",
         "Inscription Number": "39877",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3000,7 +2920,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "301",
+        "Serial Number": "293",
         "Inscription Number": "40180",
         "Sex": "Female",
         "Shell": "Round",
@@ -3010,7 +2930,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "302",
+        "Serial Number": "294",
         "Inscription Number": "35914",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3020,7 +2940,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "303",
+        "Serial Number": "295",
         "Inscription Number": "17125",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3030,7 +2950,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "304",
+        "Serial Number": "296",
         "Inscription Number": "45746",
         "Sex": "Female",
         "Shell": "Round",
@@ -3040,7 +2960,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "305",
+        "Serial Number": "297",
         "Inscription Number": "37956",
         "Sex": "Male",
         "Shell": "Round",
@@ -3050,7 +2970,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "306",
+        "Serial Number": "298",
         "Inscription Number": "45355",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3060,7 +2980,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "307",
+        "Serial Number": "299",
         "Inscription Number": "40295",
         "Sex": "Male",
         "Shell": "Round",
@@ -3070,7 +2990,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "308",
+        "Serial Number": "300",
         "Inscription Number": "38967",
         "Sex": "Male",
         "Shell": "Round",
@@ -3080,7 +3000,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "309",
+        "Serial Number": "301",
         "Inscription Number": "16186",
         "Sex": "Male",
         "Shell": "Round",
@@ -3090,7 +3010,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "310",
+        "Serial Number": "302",
         "Inscription Number": "39618",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3100,7 +3020,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "311",
+        "Serial Number": "303",
         "Inscription Number": "18661",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3110,7 +3030,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "312",
+        "Serial Number": "304",
         "Inscription Number": "35789",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3120,7 +3040,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "313",
+        "Serial Number": "305",
         "Inscription Number": "40249",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3130,7 +3050,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "314",
+        "Serial Number": "306",
         "Inscription Number": "45630",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3140,7 +3060,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "315",
+        "Serial Number": "307",
         "Inscription Number": "39156",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3150,7 +3070,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "316",
+        "Serial Number": "308",
         "Inscription Number": "39953",
         "Sex": "Male",
         "Shell": "Round",
@@ -3160,7 +3080,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "317",
+        "Serial Number": "309",
         "Inscription Number": "37223",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3170,7 +3090,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "318",
+        "Serial Number": "310",
         "Inscription Number": "39167",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3180,7 +3100,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "319",
+        "Serial Number": "311",
         "Inscription Number": "39944",
         "Sex": "Male",
         "Shell": "Gold",
@@ -3190,7 +3110,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "320",
+        "Serial Number": "312",
         "Inscription Number": "45749",
         "Sex": "Male",
         "Shell": "Round",
@@ -3200,7 +3120,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "321",
+        "Serial Number": "313",
         "Inscription Number": "41052",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -3210,7 +3130,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "322",
+        "Serial Number": "314",
         "Inscription Number": "39153",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3220,7 +3140,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "323",
+        "Serial Number": "315",
         "Inscription Number": "46155",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3230,7 +3150,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "324",
+        "Serial Number": "316",
         "Inscription Number": "40656",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -3240,7 +3160,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "325",
+        "Serial Number": "317",
         "Inscription Number": "40163",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3250,7 +3170,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "326",
+        "Serial Number": "318",
         "Inscription Number": "40034",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3260,7 +3180,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "327",
+        "Serial Number": "319",
         "Inscription Number": "40330",
         "Sex": "Female",
         "Shell": "Round",
@@ -3270,7 +3190,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "328",
+        "Serial Number": "320",
         "Inscription Number": "40335",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3280,7 +3200,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "329",
+        "Serial Number": "321",
         "Inscription Number": "37797",
         "Sex": "Female",
         "Shell": "Round",
@@ -3290,7 +3210,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "330",
+        "Serial Number": "322",
         "Inscription Number": "45414",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3300,7 +3220,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "331",
+        "Serial Number": "323",
         "Inscription Number": "39274",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -3310,7 +3230,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "332",
+        "Serial Number": "324",
         "Inscription Number": "39937",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3320,7 +3240,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "333",
+        "Serial Number": "325",
         "Inscription Number": "39171",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3330,7 +3250,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "334",
+        "Serial Number": "326",
         "Inscription Number": "40139",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3340,7 +3260,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "335",
+        "Serial Number": "327",
         "Inscription Number": "40033",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3350,7 +3270,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "336",
+        "Serial Number": "328",
         "Inscription Number": "45692",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3360,7 +3280,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "337",
+        "Serial Number": "329",
         "Inscription Number": "46158",
         "Sex": "Male",
         "Shell": "Gold",
@@ -3370,7 +3290,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "338",
+        "Serial Number": "330",
         "Inscription Number": "40138",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3380,7 +3300,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "339",
+        "Serial Number": "331",
         "Inscription Number": "18348",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3390,7 +3310,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "340",
+        "Serial Number": "332",
         "Inscription Number": "45486",
         "Sex": "Male",
         "Shell": "Round",
@@ -3400,7 +3320,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "341",
+        "Serial Number": "333",
         "Inscription Number": "39170",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3410,7 +3330,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "342",
+        "Serial Number": "334",
         "Inscription Number": "39865",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3420,7 +3340,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "343",
+        "Serial Number": "335",
         "Inscription Number": "40533",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3430,7 +3350,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "344",
+        "Serial Number": "336",
         "Inscription Number": "40044",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3440,7 +3360,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "345",
+        "Serial Number": "337",
         "Inscription Number": "37804",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3450,7 +3370,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "346",
+        "Serial Number": "338",
         "Inscription Number": "40035",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3460,7 +3380,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "347",
+        "Serial Number": "339",
         "Inscription Number": "34656",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3470,7 +3390,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "348",
+        "Serial Number": "340",
         "Inscription Number": "45953",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3480,7 +3400,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "349",
+        "Serial Number": "341",
         "Inscription Number": "35796",
         "Sex": "Male",
         "Shell": "Gold",
@@ -3490,7 +3410,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "350",
+        "Serial Number": "342",
         "Inscription Number": "45629",
         "Sex": "Female",
         "Shell": "Round",
@@ -3500,7 +3420,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "351",
+        "Serial Number": "343",
         "Inscription Number": "39884",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3510,7 +3430,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "352",
+        "Serial Number": "344",
         "Inscription Number": "37577",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3520,7 +3440,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "353",
+        "Serial Number": "345",
         "Inscription Number": "39621",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3530,7 +3450,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "354",
+        "Serial Number": "346",
         "Inscription Number": "40662",
         "Sex": "Female",
         "Shell": "Round",
@@ -3540,7 +3460,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "355",
+        "Serial Number": "347",
         "Inscription Number": "35354",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -3550,7 +3470,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "356",
+        "Serial Number": "348",
         "Inscription Number": "33860",
         "Sex": "Female",
         "Shell": "Round",
@@ -3560,7 +3480,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "357",
+        "Serial Number": "349",
         "Inscription Number": "40253",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3570,7 +3490,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "358",
+        "Serial Number": "350",
         "Inscription Number": "39169",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3580,7 +3500,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "359",
+        "Serial Number": "351",
         "Inscription Number": "40160",
         "Sex": "Female",
         "Shell": "Round",
@@ -3590,7 +3510,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "360",
+        "Serial Number": "352",
         "Inscription Number": "45753",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3600,7 +3520,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "361",
+        "Serial Number": "353",
         "Inscription Number": "38984",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3610,7 +3530,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "362",
+        "Serial Number": "354",
         "Inscription Number": "40528",
         "Sex": "Male",
         "Shell": "Round",
@@ -3620,7 +3540,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "363",
+        "Serial Number": "355",
         "Inscription Number": "25860",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -3630,7 +3550,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "364",
+        "Serial Number": "356",
         "Inscription Number": "46076",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3640,7 +3560,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "365",
+        "Serial Number": "357",
         "Inscription Number": "40125",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3650,7 +3570,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "366",
+        "Serial Number": "358",
         "Inscription Number": "40254",
         "Sex": "Male",
         "Shell": "Gold",
@@ -3660,7 +3580,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "367",
+        "Serial Number": "359",
         "Inscription Number": "40159",
         "Sex": "Male",
         "Shell": "Round",
@@ -3670,7 +3590,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "368",
+        "Serial Number": "360",
         "Inscription Number": "35792",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -3680,7 +3600,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "369",
+        "Serial Number": "361",
         "Inscription Number": "40043",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3690,7 +3610,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "370",
+        "Serial Number": "362",
         "Inscription Number": "40340",
         "Sex": "Female",
         "Shell": "Round",
@@ -3700,7 +3620,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "371",
+        "Serial Number": "363",
         "Inscription Number": "45758",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3710,7 +3630,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "372",
+        "Serial Number": "364",
         "Inscription Number": "45350",
         "Sex": "Female",
         "Shell": "Round",
@@ -3720,7 +3640,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "373",
+        "Serial Number": "365",
         "Inscription Number": "39269",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3730,7 +3650,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "374",
+        "Serial Number": "366",
         "Inscription Number": "45684",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3740,7 +3660,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "375",
+        "Serial Number": "367",
         "Inscription Number": "39165",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -3750,7 +3670,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "376",
+        "Serial Number": "368",
         "Inscription Number": "37167",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3760,7 +3680,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "377",
+        "Serial Number": "369",
         "Inscription Number": "40234",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3770,7 +3690,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "378",
+        "Serial Number": "370",
         "Inscription Number": "40532",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -3780,7 +3700,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "379",
+        "Serial Number": "371",
         "Inscription Number": "35632",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -3790,7 +3710,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "380",
+        "Serial Number": "372",
         "Inscription Number": "45942",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3800,7 +3720,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "381",
+        "Serial Number": "373",
         "Inscription Number": "18346",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3810,7 +3730,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "382",
+        "Serial Number": "374",
         "Inscription Number": "45879",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -3820,7 +3740,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "383",
+        "Serial Number": "375",
         "Inscription Number": "37953",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3830,7 +3750,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "384",
+        "Serial Number": "376",
         "Inscription Number": "40301",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3840,7 +3760,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "385",
+        "Serial Number": "377",
         "Inscription Number": "46074",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3850,7 +3770,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "386",
+        "Serial Number": "378",
         "Inscription Number": "39955",
         "Sex": "Female",
         "Shell": "Round",
@@ -3860,7 +3780,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "387",
+        "Serial Number": "379",
         "Inscription Number": "40137",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -3870,7 +3790,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "388",
+        "Serial Number": "380",
         "Inscription Number": "37497",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3880,7 +3800,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "389",
+        "Serial Number": "381",
         "Inscription Number": "40659",
         "Sex": "Male",
         "Shell": "Fire",
@@ -3890,7 +3810,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "390",
+        "Serial Number": "382",
         "Inscription Number": "45878",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -3900,7 +3820,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "391",
+        "Serial Number": "383",
         "Inscription Number": "45943",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3910,7 +3830,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "392",
+        "Serial Number": "384",
         "Inscription Number": "39951",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -3920,7 +3840,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "393",
+        "Serial Number": "385",
         "Inscription Number": "45628",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3930,7 +3850,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "394",
+        "Serial Number": "386",
         "Inscription Number": "37957",
         "Sex": "Male",
         "Shell": "Gold",
@@ -3940,7 +3860,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "395",
+        "Serial Number": "387",
         "Inscription Number": "46069",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3950,7 +3870,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "396",
+        "Serial Number": "388",
         "Inscription Number": "45759",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -3960,7 +3880,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "397",
+        "Serial Number": "389",
         "Inscription Number": "40041",
         "Sex": "Female",
         "Shell": "Gold",
@@ -3970,7 +3890,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "398",
+        "Serial Number": "390",
         "Inscription Number": "39166",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3980,7 +3900,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "399",
+        "Serial Number": "391",
         "Inscription Number": "39164",
         "Sex": "Female",
         "Shell": "Fire",
@@ -3990,7 +3910,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "400",
+        "Serial Number": "392",
         "Inscription Number": "40244",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4000,7 +3920,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "401",
+        "Serial Number": "393",
         "Inscription Number": "40252",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -4010,7 +3930,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "402",
+        "Serial Number": "394",
         "Inscription Number": "40030",
         "Sex": "Male",
         "Shell": "Round",
@@ -4020,7 +3940,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "403",
+        "Serial Number": "395",
         "Inscription Number": "18324",
         "Sex": "Male",
         "Shell": "Gold",
@@ -4030,7 +3950,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "404",
+        "Serial Number": "396",
         "Inscription Number": "40251",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4040,7 +3960,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "405",
+        "Serial Number": "397",
         "Inscription Number": "40130",
         "Sex": "Female",
         "Shell": "Round",
@@ -4050,7 +3970,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "406",
+        "Serial Number": "398",
         "Inscription Number": "45752",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4060,7 +3980,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "407",
+        "Serial Number": "399",
         "Inscription Number": "40712",
         "Sex": "Male",
         "Shell": "Fire",
@@ -4070,7 +3990,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "408",
+        "Serial Number": "400",
         "Inscription Number": "40337",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4080,7 +4000,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "409",
+        "Serial Number": "401",
         "Inscription Number": "40176",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4090,7 +4010,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "410",
+        "Serial Number": "402",
         "Inscription Number": "39876",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4100,7 +4020,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "411",
+        "Serial Number": "403",
         "Inscription Number": "39278",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4110,7 +4030,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "412",
+        "Serial Number": "404",
         "Inscription Number": "45874",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4120,7 +4040,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "413",
+        "Serial Number": "405",
         "Inscription Number": "40046",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -4130,7 +4050,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "414",
+        "Serial Number": "406",
         "Inscription Number": "40524",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4140,7 +4060,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "415",
+        "Serial Number": "407",
         "Inscription Number": "39615",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4150,7 +4070,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "416",
+        "Serial Number": "408",
         "Inscription Number": "46077",
         "Sex": "Female",
         "Shell": "Round",
@@ -4160,7 +4080,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "417",
+        "Serial Number": "409",
         "Inscription Number": "39147",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4170,7 +4090,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "418",
+        "Serial Number": "410",
         "Inscription Number": "40255",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4180,7 +4100,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "419",
+        "Serial Number": "411",
         "Inscription Number": "40520",
         "Sex": "Female",
         "Shell": "Round",
@@ -4190,7 +4110,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "420",
+        "Serial Number": "412",
         "Inscription Number": "40032",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -4200,7 +4120,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "421",
+        "Serial Number": "413",
         "Inscription Number": "39152",
         "Sex": "Female",
         "Shell": "Round",
@@ -4210,7 +4130,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "422",
+        "Serial Number": "414",
         "Inscription Number": "40781",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4220,7 +4140,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "423",
+        "Serial Number": "415",
         "Inscription Number": "17524",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -4230,7 +4150,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "424",
+        "Serial Number": "416",
         "Inscription Number": "38978",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4240,7 +4160,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "425",
+        "Serial Number": "417",
         "Inscription Number": "46073",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4250,7 +4170,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "426",
+        "Serial Number": "418",
         "Inscription Number": "45485",
         "Sex": "Male",
         "Shell": "Fire",
@@ -4260,7 +4180,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "427",
+        "Serial Number": "419",
         "Inscription Number": "39943",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -4270,7 +4190,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "428",
+        "Serial Number": "420",
         "Inscription Number": "39160",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4280,7 +4200,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "429",
+        "Serial Number": "421",
         "Inscription Number": "45876",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4290,7 +4210,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "430",
+        "Serial Number": "422",
         "Inscription Number": "45946",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -4300,7 +4220,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "431",
+        "Serial Number": "423",
         "Inscription Number": "40235",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4310,7 +4230,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "432",
+        "Serial Number": "424",
         "Inscription Number": "39267",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4320,7 +4240,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "433",
+        "Serial Number": "425",
         "Inscription Number": "39614",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4330,7 +4250,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "434",
+        "Serial Number": "426",
         "Inscription Number": "38975",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4340,7 +4260,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "435",
+        "Serial Number": "427",
         "Inscription Number": "41054",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -4350,7 +4270,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "436",
+        "Serial Number": "428",
         "Inscription Number": "45489",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4360,7 +4280,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "437",
+        "Serial Number": "429",
         "Inscription Number": "38974",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4370,7 +4290,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "438",
+        "Serial Number": "430",
         "Inscription Number": "16252",
         "Sex": "Female",
         "Shell": "Round",
@@ -4380,7 +4300,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "439",
+        "Serial Number": "431",
         "Inscription Number": "37955",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4390,7 +4310,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "440",
+        "Serial Number": "432",
         "Inscription Number": "39958",
         "Sex": "Female",
         "Shell": "Round",
@@ -4400,7 +4320,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "441",
+        "Serial Number": "433",
         "Inscription Number": "40140",
         "Sex": "Male",
         "Shell": "Round",
@@ -4410,7 +4330,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "442",
+        "Serial Number": "434",
         "Inscription Number": "40179",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4420,7 +4340,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "443",
+        "Serial Number": "435",
         "Inscription Number": "39939",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4430,7 +4350,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "444",
+        "Serial Number": "436",
         "Inscription Number": "40174",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4440,7 +4360,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "445",
+        "Serial Number": "437",
         "Inscription Number": "45631",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -4450,7 +4370,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "446",
+        "Serial Number": "438",
         "Inscription Number": "40668",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -4460,7 +4380,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "447",
+        "Serial Number": "439",
         "Inscription Number": "40655",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4470,7 +4390,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "448",
+        "Serial Number": "440",
         "Inscription Number": "40294",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4480,7 +4400,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "449",
+        "Serial Number": "441",
         "Inscription Number": "40167",
         "Sex": "Female",
         "Shell": "Round",
@@ -4490,7 +4410,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "450",
+        "Serial Number": "442",
         "Inscription Number": "39879",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4500,7 +4420,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "451",
+        "Serial Number": "443",
         "Inscription Number": "45944",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4510,7 +4430,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "452",
+        "Serial Number": "444",
         "Inscription Number": "39162",
         "Sex": "Female",
         "Shell": "Round",
@@ -4520,7 +4440,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "453",
+        "Serial Number": "445",
         "Inscription Number": "40767",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4530,7 +4450,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "454",
+        "Serial Number": "446",
         "Inscription Number": "45951",
         "Sex": "Female",
         "Shell": "Round",
@@ -4540,7 +4460,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "455",
+        "Serial Number": "447",
         "Inscription Number": "45686",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4550,7 +4470,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "456",
+        "Serial Number": "448",
         "Inscription Number": "35915",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4560,7 +4480,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "457",
+        "Serial Number": "449",
         "Inscription Number": "39878",
         "Sex": "Female",
         "Shell": "Round",
@@ -4570,7 +4490,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "458",
+        "Serial Number": "450",
         "Inscription Number": "34880",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4580,7 +4500,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "459",
+        "Serial Number": "451",
         "Inscription Number": "37306",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -4590,7 +4510,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "460",
+        "Serial Number": "452",
         "Inscription Number": "45484",
         "Sex": "Female",
         "Shell": "Round",
@@ -4600,7 +4520,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "461",
+        "Serial Number": "453",
         "Inscription Number": "46159",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4610,7 +4530,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "462",
+        "Serial Number": "454",
         "Inscription Number": "35793",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -4620,7 +4540,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "463",
+        "Serial Number": "455",
         "Inscription Number": "40143",
         "Sex": "Male",
         "Shell": "Gold",
@@ -4630,7 +4550,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "464",
+        "Serial Number": "456",
         "Inscription Number": "40653",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4640,7 +4560,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "465",
+        "Serial Number": "457",
         "Inscription Number": "40517",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -4650,7 +4570,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "466",
+        "Serial Number": "458",
         "Inscription Number": "38983",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4660,7 +4580,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "467",
+        "Serial Number": "459",
         "Inscription Number": "45877",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4670,7 +4590,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "468",
+        "Serial Number": "460",
         "Inscription Number": "46071",
         "Sex": "Female",
         "Shell": "Round",
@@ -4680,7 +4600,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "469",
+        "Serial Number": "461",
         "Inscription Number": "39163",
         "Sex": "Female",
         "Shell": "Round",
@@ -4690,7 +4610,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "470",
+        "Serial Number": "462",
         "Inscription Number": "40236",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4700,7 +4620,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "471",
+        "Serial Number": "463",
         "Inscription Number": "40373",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -4710,7 +4630,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "472",
+        "Serial Number": "464",
         "Inscription Number": "17928",
         "Sex": "Male",
         "Shell": "Gold",
@@ -4720,7 +4640,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "473",
+        "Serial Number": "465",
         "Inscription Number": "40175",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4730,7 +4650,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "474",
+        "Serial Number": "466",
         "Inscription Number": "39276",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4740,7 +4660,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "475",
+        "Serial Number": "467",
         "Inscription Number": "40177",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4750,7 +4670,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "476",
+        "Serial Number": "468",
         "Inscription Number": "45760",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4760,7 +4680,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "477",
+        "Serial Number": "469",
         "Inscription Number": "39265",
         "Sex": "Male",
         "Shell": "Round",
@@ -4770,7 +4690,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "478",
+        "Serial Number": "470",
         "Inscription Number": "38958",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4780,7 +4700,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "479",
+        "Serial Number": "471",
         "Inscription Number": "45882",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -4790,7 +4710,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "480",
+        "Serial Number": "472",
         "Inscription Number": "39874",
         "Sex": "Male",
         "Shell": "Round",
@@ -4800,7 +4720,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "481",
+        "Serial Number": "473",
         "Inscription Number": "45751",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4810,7 +4730,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "482",
+        "Serial Number": "474",
         "Inscription Number": "40293",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4820,7 +4740,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "483",
+        "Serial Number": "475",
         "Inscription Number": "17999",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4830,7 +4750,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "484",
+        "Serial Number": "476",
         "Inscription Number": "18264",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -4840,7 +4760,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "485",
+        "Serial Number": "477",
         "Inscription Number": "46063",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4850,7 +4770,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "486",
+        "Serial Number": "478",
         "Inscription Number": "39957",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4860,7 +4780,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "487",
+        "Serial Number": "479",
         "Inscription Number": "40371",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4870,7 +4790,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "488",
+        "Serial Number": "480",
         "Inscription Number": "40124",
         "Sex": "Male",
         "Shell": "Round",
@@ -4880,7 +4800,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "489",
+        "Serial Number": "481",
         "Inscription Number": "46160",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4890,7 +4810,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "490",
+        "Serial Number": "482",
         "Inscription Number": "40377",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -4900,7 +4820,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "491",
+        "Serial Number": "483",
         "Inscription Number": "40171",
         "Sex": "Female",
         "Shell": "Gold",
@@ -4910,7 +4830,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "492",
+        "Serial Number": "484",
         "Inscription Number": "45954",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4920,7 +4840,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "493",
+        "Serial Number": "485",
         "Inscription Number": "40118",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4930,7 +4850,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "494",
+        "Serial Number": "486",
         "Inscription Number": "45616",
         "Sex": "Female",
         "Shell": "Round",
@@ -4940,7 +4860,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "495",
+        "Serial Number": "487",
         "Inscription Number": "39867",
         "Sex": "Male",
         "Shell": "Gold",
@@ -4950,7 +4870,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "496",
+        "Serial Number": "488",
         "Inscription Number": "38053",
         "Sex": "Male",
         "Shell": "Fire",
@@ -4960,7 +4880,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "497",
+        "Serial Number": "489",
         "Inscription Number": "40241",
         "Sex": "Female",
         "Shell": "Round",
@@ -4970,7 +4890,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "498",
+        "Serial Number": "490",
         "Inscription Number": "46066",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -4980,7 +4900,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "499",
+        "Serial Number": "491",
         "Inscription Number": "35633",
         "Sex": "Female",
         "Shell": "Fire",
@@ -4990,7 +4910,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "500",
+        "Serial Number": "492",
         "Inscription Number": "45872",
         "Sex": "Female",
         "Shell": "Fire",
@@ -5000,7 +4920,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "501",
+        "Serial Number": "493",
         "Inscription Number": "45487",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5010,7 +4930,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "502",
+        "Serial Number": "494",
         "Inscription Number": "40297",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -5020,7 +4940,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "503",
+        "Serial Number": "495",
         "Inscription Number": "40169",
         "Sex": "Male",
         "Shell": "Fire",
@@ -5030,7 +4950,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "504",
+        "Serial Number": "496",
         "Inscription Number": "45949",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5040,7 +4960,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "505",
+        "Serial Number": "497",
         "Inscription Number": "40530",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5050,7 +4970,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "506",
+        "Serial Number": "498",
         "Inscription Number": "45883",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -5060,7 +4980,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "507",
+        "Serial Number": "499",
         "Inscription Number": "38970",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5070,7 +4990,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "508",
+        "Serial Number": "500",
         "Inscription Number": "40783",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5080,7 +5000,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "509",
+        "Serial Number": "501",
         "Inscription Number": "16622",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5090,7 +5010,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "510",
+        "Serial Number": "502",
         "Inscription Number": "39148",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5100,7 +5020,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "511",
+        "Serial Number": "503",
         "Inscription Number": "39871",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5110,7 +5030,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "512",
+        "Serial Number": "504",
         "Inscription Number": "45480",
         "Sex": "Female",
         "Shell": "Round",
@@ -5120,7 +5040,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "513",
+        "Serial Number": "505",
         "Inscription Number": "39883",
         "Sex": "Female",
         "Shell": "Fire",
@@ -5130,7 +5050,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "514",
+        "Serial Number": "506",
         "Inscription Number": "37578",
         "Sex": "Female",
         "Shell": "Round",
@@ -5140,7 +5060,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "515",
+        "Serial Number": "507",
         "Inscription Number": "39945",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -5150,7 +5070,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "516",
+        "Serial Number": "508",
         "Inscription Number": "40326",
         "Sex": "Male",
         "Shell": "Fire",
@@ -5160,7 +5080,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "517",
+        "Serial Number": "509",
         "Inscription Number": "18059",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5170,7 +5090,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "518",
+        "Serial Number": "510",
         "Inscription Number": "45478",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5180,7 +5100,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "519",
+        "Serial Number": "511",
         "Inscription Number": "40141",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5190,7 +5110,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "520",
+        "Serial Number": "512",
         "Inscription Number": "45472",
         "Sex": "Male",
         "Shell": "Round",
@@ -5200,7 +5120,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "521",
+        "Serial Number": "513",
         "Inscription Number": "40372",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5210,7 +5130,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "522",
+        "Serial Number": "514",
         "Inscription Number": "40927",
         "Sex": "Male",
         "Shell": "Fire",
@@ -5220,7 +5140,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "523",
+        "Serial Number": "515",
         "Inscription Number": "40542",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5230,7 +5150,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "524",
+        "Serial Number": "516",
         "Inscription Number": "40526",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5240,7 +5160,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "525",
+        "Serial Number": "517",
         "Inscription Number": "45403",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -5250,7 +5170,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "526",
+        "Serial Number": "518",
         "Inscription Number": "40370",
         "Sex": "Male",
         "Shell": "Gold",
@@ -5260,7 +5180,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "527",
+        "Serial Number": "519",
         "Inscription Number": "45868",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5270,7 +5190,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "528",
+        "Serial Number": "520",
         "Inscription Number": "39268",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5280,7 +5200,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "529",
+        "Serial Number": "521",
         "Inscription Number": "39885",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5290,7 +5210,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "530",
+        "Serial Number": "522",
         "Inscription Number": "45488",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5300,7 +5220,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "531",
+        "Serial Number": "523",
         "Inscription Number": "40170",
         "Sex": "Female",
         "Shell": "Round",
@@ -5310,7 +5230,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "532",
+        "Serial Number": "524",
         "Inscription Number": "38955",
         "Sex": "Male",
         "Shell": "Fire",
@@ -5320,7 +5240,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "533",
+        "Serial Number": "525",
         "Inscription Number": "45941",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5330,7 +5250,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "534",
+        "Serial Number": "526",
         "Inscription Number": "35734",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5340,7 +5260,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "535",
+        "Serial Number": "527",
         "Inscription Number": "45425",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -5350,7 +5270,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "536",
+        "Serial Number": "528",
         "Inscription Number": "39284",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -5360,7 +5280,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "537",
+        "Serial Number": "529",
         "Inscription Number": "45700",
         "Sex": "Female",
         "Shell": "Round",
@@ -5370,7 +5290,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "538",
+        "Serial Number": "530",
         "Inscription Number": "17198",
         "Sex": "Female",
         "Shell": "Round",
@@ -5380,7 +5300,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "539",
+        "Serial Number": "531",
         "Inscription Number": "40027",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5390,7 +5310,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "540",
+        "Serial Number": "532",
         "Inscription Number": "17523",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5400,7 +5320,7 @@
         "Eyes": "Laser Eyes"
     },
     {
-        "Serial Number": "541",
+        "Serial Number": "533",
         "Inscription Number": "40126",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5410,7 +5330,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "542",
+        "Serial Number": "534",
         "Inscription Number": "40543",
         "Sex": "Female",
         "Shell": "Fire",
@@ -5420,7 +5340,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "543",
+        "Serial Number": "535",
         "Inscription Number": "17129",
         "Sex": "Male",
         "Shell": "Trippy",
@@ -5430,7 +5350,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "544",
+        "Serial Number": "536",
         "Inscription Number": "35736",
         "Sex": "Male",
         "Shell": "Spiky",
@@ -5440,7 +5360,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "545",
+        "Serial Number": "537",
         "Inscription Number": "41053",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5450,7 +5370,7 @@
         "Eyes": "Scouter"
     },
     {
-        "Serial Number": "546",
+        "Serial Number": "538",
         "Inscription Number": "40521",
         "Sex": "Female",
         "Shell": "Fire",
@@ -5460,7 +5380,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "547",
+        "Serial Number": "539",
         "Inscription Number": "39270",
         "Sex": "Male",
         "Shell": "Radiation",
@@ -5470,7 +5390,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "548",
+        "Serial Number": "540",
         "Inscription Number": "17206",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5480,7 +5400,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "549",
+        "Serial Number": "541",
         "Inscription Number": "40128",
         "Sex": "Female",
         "Shell": "Trippy",
@@ -5490,7 +5410,7 @@
         "Eyes": "Original"
     },
     {
-        "Serial Number": "550",
+        "Serial Number": "542",
         "Inscription Number": "38966",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5500,7 +5420,7 @@
         "Eyes": "Sunglasses"
     },
     {
-        "Serial Number": "551",
+        "Serial Number": "543",
         "Inscription Number": "40120",
         "Sex": "Male",
         "Shell": "Fire",
@@ -5510,7 +5430,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "552",
+        "Serial Number": "544",
         "Inscription Number": "45687",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5520,7 +5440,7 @@
         "Eyes": "Eyepatch"
     },
     {
-        "Serial Number": "553",
+        "Serial Number": "545",
         "Inscription Number": "35629",
         "Sex": "Female",
         "Shell": "Radiation",
@@ -5530,7 +5450,7 @@
         "Eyes": "Visor"
     },
     {
-        "Serial Number": "554",
+        "Serial Number": "546",
         "Inscription Number": "37958",
         "Sex": "Female",
         "Shell": "Gold",
@@ -5540,7 +5460,7 @@
         "Eyes": "3D Glasses"
     },
     {
-        "Serial Number": "555",
+        "Serial Number": "547",
         "Inscription Number": "17089",
         "Sex": "Female",
         "Shell": "Spiky",
@@ -5548,5 +5468,85 @@
         "Mouth": "Golden Teeth",
         "Hat": "Crown",
         "Eyes": "Original"
+    },
+    {
+        "Serial Number": "548",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "549",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "550",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "551",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "552",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "553",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "554",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
+    },
+    {
+        "Serial Number": "555",
+        "Inscription Number": "???",
+        "Sex": "???",
+        "Shell": "???",
+        "Skin": "???",
+        "Mouth": "???",
+        "Hat": "???",
+        "Eyes": "???"
     }
 ]
