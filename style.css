@@ -260,10 +260,10 @@ transform: scale(1.2);
   display: flex;
   background-color: transparent;
   overflow-x: hidden;
-  position: absolute;
   width: 100%;
-  height: 100px;
-  top: 89.5%;
+  height: 100vh;
+  position: relative;
+  align-items: end;
 }
 
 .scroll-container img {
