@@ -12,7 +12,34 @@
       <div id="loader">
         <img src="images/footerlogo.gif" alt="Loading...">
       </div>
-    </div>    
+    </div>
+        <div class="audio-container" autoplay loop>
+      <audio id="audio" loop>
+        <source src="gng-beach.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    
+      <button id="play-pause-button">
+        <img id="play-icon" src="images/play-circle.png" alt="Play" width="100%">
+      </button>
+    
+      <script>
+        var audio = document.getElementById("audio");
+        var playPauseButton = document.getElementById("play-pause-button");
+        var playIcon = document.getElementById("play-icon");
+        audio.volume = 0.1;
+    
+        playPauseButton.addEventListener("click", function() {
+          if (audio.paused) {
+            audio.play();
+            playIcon.src = "images/pause.png";
+          } else {
+            audio.pause();
+            playIcon.src = "images/play-circle.png";
+          }
+        });
+      </script>
+    </div>
 </head>
 <body>
     <header>
